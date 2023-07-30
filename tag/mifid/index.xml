@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mifid on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/mifid/</link>
+    <description>Recent content in mifid on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Sun, 22 Mar 2015 05:03:06 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/mifid/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kérdések a bankhoz</title>
+      <link>//localhost:1313/kerdesek-a-bankhoz/</link>
+      <pubDate>Sun, 22 Mar 2015 05:03:06 +0000</pubDate>
+      
+      <guid>//localhost:1313/kerdesek-a-bankhoz/</guid>
+      <description>A kormány elszámoltatja a bankokat &amp;#8230;számoltassuk el őket mi is. Javasoljuk, hogy az elszámolások (szerződésmódosítások) átvételét követően tegyék fel nekik ezeket a kérdéseket a minták alapján.
+Tisztelt Bank!
+Devizahitelem van. Valójában deviza nyilvántartású hitelem van. A hitel felvételekor nem voltam tisztában a bank hiteltermékéről. Csak azt tudtam, hogy felelősséggel döntöttem a családommal együtt a kölcsönkérelmem benyújtásakor. És rosszul jártam a hiteltermékkel, amelyet értékesítettek nekem, annak érdekében, hogy kölcsönt kapjak, és valamiért ezzel nem számoltam, és nem is számolhattam a bank tájékoztatása alapján.</description>
+    </item>
+    
+  </channel>
+</rss>

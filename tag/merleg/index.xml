@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mérleg on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/merleg/</link>
+    <description>Recent content in mérleg on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Wed, 18 Nov 2015 08:11:50 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/merleg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mérleg alatti számlapénzek</title>
+      <link>//localhost:1313/merleg-alatti-szamlapenzek/</link>
+      <pubDate>Wed, 18 Nov 2015 08:11:50 +0000</pubDate>
+      
+      <guid>//localhost:1313/merleg-alatti-szamlapenzek/</guid>
+      <description>A bankrendszer minden tagjának a mérleg feletti tevékenysége ellenőrzött és szabályozott. A mérleg alatti, szabadpénzpiaci tevékenysége részben szabályozott, egyes műveletekre kiterjedően, de annak valóságos pénzforgalma sem nem szabályozott, sem nem ellenőrzött. A mérleg alatti tevékenység auditálása sem valós adatokon nyugszik, valódi auditálásról nem is beszélhetünk. Az európai könyvvizsgálók nemzetközi szervezetének illusztris tagja, ezzel kapcsolatban a bankok ilyen tevékenységét, jobb szó híján, perverz banki működésnek nevezte. (A hasonló című tanulmányt az interneten megtalálják egyszerű google tárgykereséssel).</description>
+    </item>
+    
+    <item>
+      <title>Folyamatos megújítás</title>
+      <link>//localhost:1313/folyamatos-megujitas/</link>
+      <pubDate>Tue, 21 Jul 2015 07:07:05 +0000</pubDate>
+      
+      <guid>//localhost:1313/folyamatos-megujitas/</guid>
+      <description> A devizaswapok folyamatos megújítása szükséges a bankok számára a mérlegen belüli nyitott pozíció mérlegen kívüli zárásához.
+ Banai Ádám−Kollarik András−Szabó-Solticzky András:Az egynapos FX-swappiac topológiája  </description>
+    </item>
+    
+    <item>
+      <title>Forinttal szembeni kitettség</title>
+      <link>//localhost:1313/forinttal-szembeni-kitettseg/</link>
+      <pubDate>Sun, 08 Jun 2014 02:06:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/forinttal-szembeni-kitettseg/</guid>
+      <description> A hazai bankoknak a mérlegen belül így forinttal szembeni kitettsége (long deviza, short forint pozíciója) keletkezik.
+ Mák István–Páles Judit: Az FX-swap piac szerepe a hazai pénzügyi rendszerben (MNB)  </description>
+    </item>
+    
+    <item>
+      <title>A devizaforrás nélküli devizahitelezés</title>
+      <link>//localhost:1313/devizaforras-nelkuli-devizahitelezes/</link>
+      <pubDate>Fri, 06 Jun 2014 03:06:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/devizaforras-nelkuli-devizahitelezes/</guid>
+      <description> A mérlegen belüli devizapozíció felépülését az utóbbi időszakban fokozatosan a devizaforrás nélküli devizahitezés magyarázza.
+ Bethlendi András-Czeti Tamás-Krekó Judit-Nagy Márton-Palotai Dániel-MNB háttértanulmányok 2005/2-A MAGÁNSZEKTOR DEVIZAHITELEZÉSÉNEK MOZGATÓRUGÓI  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mixcloud on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/mixcloud/</link>
+    <description>Recent content in mixcloud on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Sun, 19 Apr 2015 08:04:45 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/mixcloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hangzó anyagok</title>
+      <link>//localhost:1313/hangzo-anyagok/</link>
+      <pubDate>Sun, 19 Apr 2015 08:04:45 +0000</pubDate>
+      
+      <guid>//localhost:1313/hangzo-anyagok/</guid>
+      <description>Összegyűjtöttük az eddig közzétett hangzó anyagainkat a deviza nyilvántartású hitelről:
+ Bevezetés Történelmi előzmények Szintetikus követelés-hatalom A deviza-nyilvántartású hitel A jogalkalmazás ellentmondásai Végkövetkeztetés A forintosításról és a valóságról  Bevezetés Bevezetés 1.  Bevezetés 2.  Történelmi előzmények Történelmi előzmények  Szintetikus követelés-hatalom Szintetikus követelés-hatalom 1.  Szintetikus követelés-hatalom 2.  A deviza-nyilvántartású hitel A devizanyilvántartású hitel 1.  A devizanyilvántartású hitel 2.  A devizanyilvántartású hitel 3.  A devizanyilvántartású hitel 4.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mozaik on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/mozaik/</link>
+    <description>Recent content in mozaik on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Tue, 26 Apr 2016 10:04:16 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/mozaik/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Szélmalmok 1.0 - a makacs tények</title>
+      <link>//localhost:1313/szelmalmok-1-0/</link>
+      <pubDate>Tue, 26 Apr 2016 10:04:16 +0000</pubDate>
+      
+      <guid>//localhost:1313/szelmalmok-1-0/</guid>
+      <description>I. A makacs tények
+A honlapon a mesénk közlését a világ minden pénzéről, és a székely atyafiról felfüggesztettük. No nem véglegesen Csak most a mesélés időszaka helyett, másféle feladataink vannak. Három részben szókimondóbbak leszünk: a makacs tényekről, a jogalkotásról, és a jogalkalmazásról. Különösen az utóbbiak aktív, de lekicsinylő megjegyzései miatt. A tényekkel a bankoknak üzenünk elsősorban. A jogalkotásnak majd a következő II. részben, miként, és miért írták át az anyagi, és eljárásjogot a banklobbi kedvére gyevi törvényeikkel.</description>
+    </item>
+    
+  </channel>
+</rss>

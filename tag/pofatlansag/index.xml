@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pofátlanság on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/pofatlansag/</link>
+    <description>Recent content in pofátlanság on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Sun, 05 Jul 2015 02:07:06 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/pofatlansag/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Megérkezett az MNB kimerítő válasza</title>
+      <link>//localhost:1313/megerkezett-az-mnb-kimerito-valasza/</link>
+      <pubDate>Sun, 05 Jul 2015 02:07:06 +0000</pubDate>
+      
+      <guid>//localhost:1313/megerkezett-az-mnb-kimerito-valasza/</guid>
+      <description>4 hónap után megérkezett az MNB válasza a feltett kérdéseinkre. A feltett kérdéseink:
+ Van-e különbség a klasszikus (a bank devizabetét-állománya, jelzálogpapír-forgalmazás, finanszírozó bank által nyújtott devizaforrás) deviza-forrásokkal ellátott hitel és a szintetikus devizával „fedezett” hitel között? A deviza nyilvántartású hitel esetén hitel tőke összegem miért emelkedett a futamidő alatt annak ellenére, hogy nem kértem a hitelemelést, és a hitel terhére nyújtott kölcsön összege nem emelkedett? Amennyiben szintetikus devizával „fedezett”, valójában ellentételezett hitelt nyújtott a bank, mit jelent a szintetikus deviza?</description>
+    </item>
+    
+  </channel>
+</rss>

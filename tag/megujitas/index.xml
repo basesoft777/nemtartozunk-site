@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>megújítás on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/megujitas/</link>
+    <description>Recent content in megújítás on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Fri, 24 Jul 2015 07:07:06 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/megujitas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Megújítási kényszer</title>
+      <link>//localhost:1313/megujitasi-kenyszer/</link>
+      <pubDate>Fri, 24 Jul 2015 07:07:06 +0000</pubDate>
+      
+      <guid>//localhost:1313/megujitasi-kenyszer/</guid>
+      <description>A bankok swapállománya 2012 elejére történelmi csúcsra emelkedett, amiben jelentős szerep tulajdonítható annak, hogy a devizafinanszírozás biztosításában 2008 óta elfogadott üzleti modell a devizaswapok használata. A magas devizaswap-állomány ugyanakkor jelentős pénzügyi stabilitási kockázatokat hordoz − nem csak azért, mert a múltban a swappiacok többször is „lefagytak”. Funkcionálisan megfelelően működő swappiac mellett is jelentős kockázatokat lehet azonosítani. Egyrészt a megújítási kényszeren, illetve a letéti követelmény- („margin call”) kötelezettségen keresztül a bankok érzékennyé válnak az árfolyam-ingadozásra, ami csökkenő likviditást eredményezhet.</description>
+    </item>
+    
+    <item>
+      <title>Költségként realizálódott az ügyfelek számára</title>
+      <link>//localhost:1313/koltsegkent-realizalodott-az-ugyfelek-szamara/</link>
+      <pubDate>Thu, 23 Jul 2015 08:07:15 +0000</pubDate>
+      
+      <guid>//localhost:1313/koltsegkent-realizalodott-az-ugyfelek-szamara/</guid>
+      <description>A bankok alapvetően rövid és szintetikus forrásból refinanszírozták hosszú lejáratú deviza-jelzáloghitelezésüket. Ez a technika nem elhanyagolható megújítási kockázattal járt, amely elsősorban költségként realizálódott az ügyfelek számára (7. ismérv). A magyar bankrendszer a svájcifrank-hitelezéshez szükséges svájcifrank-forrást nem tradicionális módon – svájcifrank-devizabetét gyűjtéséből, illetve hosszú lejáratú devizakötvény-kibocsátásból vonta be, hanem a mérlegén belül forint- vagy euróbetétből finanszírozta meg. Az ebből adódó, mérlegen belüli nyitott devizapozíciót a bankok jellemzően külföldiekkel kötött, mérlegen kívüli (származtatott) ügyletekkel fedezik.</description>
+    </item>
+    
+    <item>
+      <title>Folyamatos megújítás</title>
+      <link>//localhost:1313/folyamatos-megujitas/</link>
+      <pubDate>Tue, 21 Jul 2015 07:07:05 +0000</pubDate>
+      
+      <guid>//localhost:1313/folyamatos-megujitas/</guid>
+      <description> A devizaswapok folyamatos megújítása szükséges a bankok számára a mérlegen belüli nyitott pozíció mérlegen kívüli zárásához.
+ Banai Ádám−Kollarik András−Szabó-Solticzky András:Az egynapos FX-swappiac topológiája  </description>
+    </item>
+    
+  </channel>
+</rss>

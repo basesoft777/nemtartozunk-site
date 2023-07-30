@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pje on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/pje/</link>
+    <description>Recent content in pje on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Mon, 09 Feb 2015 07:02:55 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/pje/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Az alkotmányjogi panaszt nyilvántartásba vette az Alkotmánybíróság
+</title>
+      <link>//localhost:1313/az-alkotmanyjogi-panaszt-nyilvantartasba-vette-az-alkotmanybirosag/</link>
+      <pubDate>Mon, 09 Feb 2015 07:02:55 +0000</pubDate>
+      
+      <guid>//localhost:1313/az-alkotmanyjogi-panaszt-nyilvantartasba-vette-az-alkotmanybirosag/</guid>
+      <description>Korábban beszámoltunk arról, hogy egy devizahiteles alkotmányjogi panaszt nyújtott be többet között a Kúria 6/2013 PJE határozatával szemben, mivel az álláspontja szerint önállósult normatartalommal rendelkezik. A devizahiteles szerint a jogegységi határozat együttesen tartalmaz eljárásjogi és anyagi jogi alkotmánysértést is, – így az közvetlenül okoz alkotmányos sérelmet – mivel egy kereseti állítás vizsgálatát tiltja meg a bíróságoknak eljárásjogi alkotmánysérelmet okozva, ezzel akadályozva egy valós jogviszonytartalom feltárását egy bíróság előtt anyagi jogi értelemben is.</description>
+    </item>
+    
+    <item>
+      <title>Az Alkotmányjogi panasz hiánypótlása</title>
+      <link>//localhost:1313/alkotmanyjogi-panasz-hianypotlasa/</link>
+      <pubDate>Mon, 29 Dec 2014 12:12:08 +0000</pubDate>
+      
+      <guid>//localhost:1313/alkotmanyjogi-panasz-hianypotlasa/</guid>
+      <description>Korábban beszámoltunk arról, hogy egy “devizahiteles” alkotmányjogi panaszt nyújtott be a Kúria 6/2013 PJE határozatával szemben, és annak alaptörvény ellenessége miatt kérte a 6/2013 PJE határozat megsemmisítését. Az Alkotmánybíróság hiánypótlásra hívta fel az indítványozót. A hiánypótlásra adott választ közöljük:
+Részlet:
+Amikor a beadványozó a 6/2013 PJE határozat alkotmányos felülvizsgálatát indítványozza, mivel az álláspontja szerint eljárásjogi és anyagi jogi alkotmánysérelmet is előidéz a felülvizsgálati eljárásban, akkor olyan normatív erővel rendelkező jogi aktus felülvizsgálatát kéri utólagos normakontroll keretében, mely a jogalanyokra is kiterjedően kötelezően állapítja meg – adott esetben alkotmányellenesen – egy jogviszony tartalmát.</description>
+    </item>
+    
+    <item>
+      <title>Az MNB &#34;szakvéleménye&#34; a devizahitelről félrevezető és hamis
+</title>
+      <link>//localhost:1313/az-mnb-szakvelemenye-a-devizahitelrol-felrevezeto-es-hamis/</link>
+      <pubDate>Fri, 12 Dec 2014 05:12:06 +0000</pubDate>
+      
+      <guid>//localhost:1313/az-mnb-szakvelemenye-a-devizahitelrol-felrevezeto-es-hamis/</guid>
+      <description>Az egyszeri devizadós levele a Kúriához:
+Tisztelt Kúria!
+ A Kúriának a 6/2013 PJE határozata kapcsán több sajtóinformáció köztük a Kúriának a megnyilvánulásai is utaltak arra, hogy az MNB szakértői véleményt nyújtott be a Kúriának, abban a kérdéskörben, hogy a deviza alapú hitelek rendelkeztek-e deviza forrásokkal.
+Kérésem indokoltsága abban áll, mivel a Kúria a PJE határozatában megtiltotta a bíróságnak ezen kérdéskör vizsgálatát és erre vonatkozó bizonyítást, ezért a fegyverek egyenlősége szellemében indokolt lenne , hogy a jogkövető közönség ezen szakértői vélemény teljes tartalmát megismerhesse.</description>
+    </item>
+    
+    <item>
+      <title>A Kúria és a városi legendák ...</title>
+      <link>//localhost:1313/a-kuria-es-a-varosi-legendak/</link>
+      <pubDate>Fri, 27 Jun 2014 07:06:18 +0000</pubDate>
+      
+      <guid>//localhost:1313/a-kuria-es-a-varosi-legendak/</guid>
+      <description>Urban legend-nek bizonyult a Kúria jogegységi határozatában megfogalmazott azon állítása, hogy a hitelezők helyzetére az árfolyam változása nem hat ki. (6/2013 PJE)
+ A kereskedési bevételek elsősorban az orosz és magyar leányoknál végzett, devizaalapú tranzakciók sikerességének köszönhetően ugrottak meg, mivel a devizaárfolyamok mozgása pozitív hatást gyakorolt a cég pénzügyi eszközeire.
+ Forrás: http://www.investor.hu/news/20131127-kellemes-meglepetest-okozott-a-raiffeisen.html</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pénz on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/penz/</link>
+    <description>Recent content in pénz on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Sun, 17 Jul 2016 02:07:12 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/penz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pénzszolgáltatási jogviszony</title>
+      <link>//localhost:1313/penzszolgaltatasi-jogviszony/</link>
+      <pubDate>Sun, 17 Jul 2016 02:07:12 +0000</pubDate>
+      
+      <guid>//localhost:1313/penzszolgaltatasi-jogviszony/</guid>
+      <description>A magánjogi szerződések jogviszonyának általában szokásos értelmezése során, a jogalkotó és jogalkalmazó a szerződésből indul ki a felek jogainak, és kötelezettségeinek megítélésekor. A pénzszolgáltatási szerződések során azonban az a különleges egyedi helyzet, hogy az ilyen szerződés során hitelpénz, közpénz jön létre olyan jogi kiváltságokat élvező pénzszolgáltató (pénzügyi intézmények: hitelintézetek, és pénzelosztó pénzügyi vállalkozások) és adós között, amelyek magánjogi szerződések. De ezeknek a tárgya maga is követelésjog, és tartozáskötelezettség együttese, amelyben hitelpénz keletkezik: közpénz, Ft-hiteltőke a semmiből (a banknak előbb keletkezik követelése az adóssal szemben, mielőtt ehhez bevételi forrása lenne: „levegőpénz”-hitelszámla).</description>
+    </item>
+    
+  </channel>
+</rss>
