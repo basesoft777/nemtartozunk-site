@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>likviditás on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/likviditas/</link>
+    <description>Recent content in likviditás on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Wed, 10 Sep 2014 07:09:00 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/likviditas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Egy finanszírozási eszköz devizaneme megváltoztatható</title>
+      <link>//localhost:1313/eszkoz-devizaneme-megvaltoztathato/</link>
+      <pubDate>Wed, 10 Sep 2014 07:09:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/eszkoz-devizaneme-megvaltoztathato/</guid>
+      <description> A devizaswapügyletek felhasználásával egy finanszírozási eszköz devizaneme megváltoztatható, ennek megfelelően az ügylet alkalmas a hazai bankrendszer forint forrásból történő devizahitelezése miatt keletkező mérleg szerinti devizapozíció fedezésére. A rövid futamidejű FX-swap ügyletekkel való fedezés azonban likviditási és megújítási kockázatot tartalmaz.
+ Páles Judit −Kuti Zsolt−Csávás Csaba:A devizaswapok szerepe a hazai bankrendszerben és a swappiac válság alatti működésének vizsgálata  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kisértékű on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/kiserteku/</link>
+    <description>Recent content in kisértékű on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Wed, 10 Feb 2016 07:02:37 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/kiserteku/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kisértékű nyerések</title>
+      <link>//localhost:1313/kiserteku-nyeresek/</link>
+      <pubDate>Wed, 10 Feb 2016 07:02:37 +0000</pubDate>
+      
+      <guid>//localhost:1313/kiserteku-nyeresek/</guid>
+      <description>Kisértékű és rövidtávú pernyerések azok olyanok, amelyeket kisértékű, és jelentéktelen vétkekkel nyerünk a bankok elleni „devizás” perekben. Mert a bankok mérhetetlen bűneit ezek is elleplezik, és jelentéktelenítik. És az ilyen pernyerések, a pillanatnyi „örömünk” megélésén túl, nem biztos, hogy nyerések maradnak másodfokon, a felsőbb bíróságokon, sőt az EU bíróságai előtt is. Pedig a mi igazságszolgáltatási rendszerünk odáig tart már… És minden döntési szinten a banki bűnök elítélése az egyetlen esély arra, hogy megfizessenek a gazságukért, és soha többé (az államunk devizanyilvántartású, még kézműves, eladósítása a kádári rendszer óta, betetőzve a mostani hasonló, de ipari állam- és lakossági, és közösségi eladósításunkig) meg ne merészeljék tenni újból, e hazában.</description>
+    </item>
+    
+  </channel>
+</rss>

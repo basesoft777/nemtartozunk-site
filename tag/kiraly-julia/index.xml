@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>király júlia on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/kiraly-julia/</link>
+    <description>Recent content in király júlia on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Fri, 01 Feb 2019 16:06:00 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/kiraly-julia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kérdéseink Király Júliához</title>
+      <link>//localhost:1313/kerdeseink-kiraly-juliahoz/</link>
+      <pubDate>Fri, 01 Feb 2019 16:06:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/kerdeseink-kiraly-juliahoz/</guid>
+      <description>Király Júlia személyes Facebook oldalán a devizahitellel kapcsolatos írására szeretnénk reagálni néhány mondattal. A hozzászólás:
+ Összeesküvés-elméletekről devizahitelek, kamatok, árfolyamok kapcsán.Számos hozzászólás érkezett az eddigi devizahiteles problémával foglalkozó bejegyzésekre, ezért néhány felvetésre ezúton reagálok.Az összeesküvés-elméletek egyik visszatérő tézise szerint „a bankok spekuláltak az árfolyamgyengülésre, ezért adósították el a lakosságot devizában”. A bankokat valóban súlyos felelősség terheli a devizahitel-buborék kialakulásáért, de a fenti vád alól felmenthetjük őket. A bankok éppen annyi devizaforrással rendelkeztek, amennyi devizahitelt nyújtottak.</description>
+    </item>
+    
+  </channel>
+</rss>

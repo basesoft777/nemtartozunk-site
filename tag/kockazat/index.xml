@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kockázat on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/kockazat/</link>
+    <description>Recent content in kockázat on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Fri, 21 Apr 2017 10:04:58 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/kockazat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A szintetikus deviza az adós kivédhetetlen kockázata</title>
+      <link>//localhost:1313/szintetikus-deviza-ados-kivedhetetlen-kockazata/</link>
+      <pubDate>Fri, 21 Apr 2017 10:04:58 +0000</pubDate>
+      
+      <guid>//localhost:1313/szintetikus-deviza-ados-kivedhetetlen-kockazata/</guid>
+      <description>A bíróságok általános vélekedései a hibrid-pénztermék kereseti tényállításairól és a jogviszony értelmezéséről többnyire az alábbi megalapozatlan feltételezésen alapulnak.
+ „A konkrét, egyedi ügylet gazdasági céljához kapcsolódó causának, jogcímnek, motívumnak a feltüntetésére a szerződés létrejöttéhez nincs szükség, ezért a magyar kötelmi jog rendszerében többek közt a kölcsönszerződés is tipizált, ebben az értelemben jogcímhez nem kötött absztrakt jogügylet.
+Ezért nincs jelentősége annak &amp;#8211; azokat az eseteket kivéve, amikor a jogszabály, vagy a felek megállapodása szerint meghatározásra került, vagy kell hogy kerüljön &amp;#8211; hogy mi a kölcsön célja, azt miért kéri az adós, mire használja fel.</description>
+    </item>
+    
+  </channel>
+</rss>

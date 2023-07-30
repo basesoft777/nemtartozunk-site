@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kifosztás on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/kifosztas/</link>
+    <description>Recent content in kifosztás on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Fri, 09 Jan 2015 04:01:38 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/kifosztas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A forintosítás a lepel alatt…</title>
+      <link>//localhost:1313/a-forintositas-a-lepel-alatt/</link>
+      <pubDate>Fri, 09 Jan 2015 04:01:38 +0000</pubDate>
+      
+      <guid>//localhost:1313/a-forintositas-a-lepel-alatt/</guid>
+      <description>Ez az írás a devizaforrású Ft-hitelviszonytól a szintetikus devizahitel-viszony megkülönböztetéséhez szeretne információt adni az érdekelteknek.
+A devizaforrású Ft-hitel jogviszony (szerződési kötelem) ismerete ma azért fontos, mert ezzé alakítják át a forintosítási törvények (a három devizamentő (bankmentő tv.) a deviza-nyilvántartású (befektetéssel vegyes, jelzáloggal biztosított Ft-hiteleket).
+A mostani forintosítás nem más, mint deviza-nyilvántartású forinthitel (szintetikus devizával, vagyis szüntelen megújításra szoruló pénzpiaci befektetéssel, ellentételezett forint-hitel) törvényi átalakítása, egyszeri devizaforrású forinthitellé. Azzá, aminek az ilyen szerződések megkötésekor, a bank a pénzügyi termékét láttatni akarta.</description>
+    </item>
+    
+    <item>
+      <title>Röpirat a deviza(követelés)-hatalomról</title>
+      <link>//localhost:1313/ropirat-a-devizakoveteles-hatalomrol/</link>
+      <pubDate>Fri, 12 Dec 2014 12:12:58 +0000</pubDate>
+      
+      <guid>//localhost:1313/ropirat-a-devizakoveteles-hatalomrol/</guid>
+      <description>A deviza hiteleknek nevezett pénzügyi banki termékek szégyent, megalázottságot, és kifosztottságot hoztak a nőknek, férfiaknak, családoknak, közösségeknek. Mégsem találjuk őket az utcán tüntetni a nyilvánvaló helyzetük miatt. 6-7 millió érintett emberről beszélünk, akik megváltásra vártak, miután tőrbe csalták őket, megmentést ígértek nekik, és az új jogszabályok miatt a jogállami, törvényelőtti egyenlőségüktől is megfosztattak a banki önkénnyel szemben.
+Ez a banki önkény ma már nem korlátozott a jogállami, törvény előtti egyenlőség garanciáival.</description>
+    </item>
+    
+  </channel>
+</rss>

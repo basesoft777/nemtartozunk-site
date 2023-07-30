@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lantos on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/lantos/</link>
+    <description>Recent content in lantos on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Sat, 01 Apr 2017 05:04:06 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/lantos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Lantos-ügy igazolja a jogegységi döntést?</title>
+      <link>//localhost:1313/lantos-ugy-igazolja-jogegysegi-dontest/</link>
+      <pubDate>Sat, 01 Apr 2017 05:04:06 +0000</pubDate>
+      
+      <guid>//localhost:1313/lantos-ugy-igazolja-jogegysegi-dontest/</guid>
+      <description>Lantos- ítélet (C-312/14) befektetés elutasítása igazolja a jogegységi döntést, hogy nincs és nem vizsgálható a befektetési elem egy hitelszerződésben.; halljuk sokfelől, hol bíráktól, hol bankoktól.
+Ez az állítás hamis, és iratellenes.
+ A Lantos féle ítélet devizaforrással ellátott Ft-hitel banki devizaforrás-teremtő tartozásának árfolyamkockázata kezeléséről mondta ki hogy az nem befektetés, és az ilyen, nem befektetéssel vegyes hitel. Szerintünk is így van. De ez önmagában is bizonyítja, hogy vizsgálni kell a devizaelem minőségét egy jogviszonyban.</description>
+    </item>
+    
+    <item>
+      <title>A befektetés-biznisz a devizaalapú hitel pénztermékben</title>
+      <link>//localhost:1313/befektetes-biznisz-devizaalapu-hitel-penztermekben/</link>
+      <pubDate>Mon, 05 Sep 2016 07:09:40 +0000</pubDate>
+      
+      <guid>//localhost:1313/befektetes-biznisz-devizaalapu-hitel-penztermekben/</guid>
+      <description>Egy másodfokú ítéletből ideidézett két bekezdés, alapvetően téves a pénzszolgáltatási kötelmi jogviszony fogalmára, mert releváns: miben állapodott meg valójában a bank és adósa És amiben megállapodtak a szolgáltató azt a pénzszolgáltatást nyújtja-e? A tartós jogviszony alatt a hitelt folyamatosan nyújtja a szolgáltató bank. Az valóban irreleváns az adós szempontjából, hogy a számvitel (Szám. tv. és 250/2000. Kormány rendelet) számlanyilvántartási szabályai szerint, a Hpt. szerinti hitelpénz-szolgáltatást a magán szerződés megkötésével induló tartós jogviszonyban, mint hitelszámla-követelést hogyan tartja fenn és követeli a pénzszolgáltató bank.</description>
+    </item>
+    
+  </channel>
+</rss>

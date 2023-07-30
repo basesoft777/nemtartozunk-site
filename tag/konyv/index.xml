@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>könyv on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/konyv/</link>
+    <description>Recent content in könyv on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Thu, 01 Oct 2015 03:10:30 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/konyv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A nagy MNB átalakítás</title>
+      <link>//localhost:1313/nagy-mnb-atalakitas/</link>
+      <pubDate>Thu, 01 Oct 2015 03:10:30 +0000</pubDate>
+      
+      <guid>//localhost:1313/nagy-mnb-atalakitas/</guid>
+      <description>A könyvünk olvasói jelezték, hogy az általunk megjelölt és hivatkozott források, az MNB honlapján már nem elérhetőek. A kéziratunk lezárásának időpontjában az általunk megadott linkeken ezek a tanulmányok még elérhetőek voltak. A bankok bankjának tájékoztatása szerint &amp;#8211; amely szervezet jelenleg a pénzügyi fogyasztóvédelmet is ellátja &amp;#8211; éppen az MNB honlap átalakítás alatt van. Ezért ezek a dokumentumok vándorolnak ide-oda.
+Újra összegyűjtöttük őket. Ezek a cikk végén lévő linken elérhetőek a könyvünk online függelékeként.</description>
+    </item>
+    
+    <item>
+      <title>Könyvmegjelenés: A HIBRID</title>
+      <link>//localhost:1313/konyv-hibrid/</link>
+      <pubDate>Thu, 17 Sep 2015 06:09:16 +0000</pubDate>
+      
+      <guid>//localhost:1313/konyv-hibrid/</guid>
+      <description>A könyv tematikus, rendszertani, ismereterjesztő foglalata monográfia formájában a magyar deviza nyilvántartású hitel valóságának. A könyv kísérlet arra, hogy a tartalma, a benne foglalt állítások, és bizonyítások, a közgondolkodás részéve váljanak. És a szenvedélye is a hibrid szerződések valóságának feltárása.
+  A könyv jelenleg e-könyv formájában vásárolható meg. Hamarosan elérhető lesz a nyomtatott kiadás is.
+Megvásárolható a kiadó honlapján az alábbi linken, ahol az érdeklődők bele is olvashatnak. http://publioboox.com/hu_HU/a-hibrid-a-szintetikus-toke-fogsagaban</description>
+    </item>
+    
+  </channel>
+</rss>

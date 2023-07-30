@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>közlemény on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/kozlemeny/</link>
+    <description>Recent content in közlemény on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Sun, 18 Dec 2016 10:12:04 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/kozlemeny/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Három (a) magyar igazság 1.0</title>
+      <link>//localhost:1313/harom-a-magyar-igazsag-1-0/</link>
+      <pubDate>Sun, 18 Dec 2016 10:12:04 +0000</pubDate>
+      
+      <guid>//localhost:1313/harom-a-magyar-igazsag-1-0/</guid>
+      <description>Előzmények I.
+„…bár felül a gálya…”
+(P.S.)
+Egyetlen bíró, ügyész, államvédelmi szolgálatos, rendőr, államigazgatási szereplő, jogalkotó nem lett felelősségre vonva az ötvenes évek alatti tevékenységéért, amikor emberek ezreit ítélték el koncepciós perekben, és kiszolgálta a diktatúra terrorját. Tevékenységük feltárásával is adós maradt az állam, az állam intézményeinek tisztségviselői, és az írástudók és farizeusok köznyilvánosságot kapott része. Nem vált a közbeszéd, és köztudás részévé a diktatúra valódi okairól, működéséről, és következményeiről szóló emlékezet sem.</description>
+    </item>
+    
+    <item>
+      <title>Jogegyenlőség és a koncepciós eljárás</title>
+      <link>//localhost:1313/jogegyenloseg-koncepcios-eljaras/</link>
+      <pubDate>Sat, 17 Dec 2016 01:12:57 +0000</pubDate>
+      
+      <guid>//localhost:1313/jogegyenloseg-koncepcios-eljaras/</guid>
+      <description>„Haza csak ott van, hol jog is van,
+S a népnek nincs joga.” (P.S.)
+Ne féljetek! 2016. december 13-án, csak annyi történt, hogy a devizalapú Ft-hitel, és az – egyébként nem létező devizaalapú kölcsön – pénztermékeket értékesítő pénzszolgáltatási szerződések tárgyában, egy másodfokú bíróság kimondta egy egyedi ügyben – amelynek elsőfokú ítélete szerint az adósnak igazsága lett –, hogy :
+ Ilyen szerződés tartalmát nem vizsgálhatja az elsőfokú bíróság, és bizonyítást sem folytathat le a valós, és a szerződési okiratból le nem vezethető olyan körülményekre, amelyek a bank követelés jogát, és annak összegét ténylegesen létrehozták az adóssal szemben a bank könyveiben, a tartós jogviszony alatt.</description>
+    </item>
+    
+    <item>
+      <title>Nem minden gyevi ...</title>
+      <link>//localhost:1313/nem-minden-gyevi/</link>
+      <pubDate>Fri, 17 Jun 2016 04:06:54 +0000</pubDate>
+      
+      <guid>//localhost:1313/nem-minden-gyevi/</guid>
+      <description>Eredményes érdekérvényesítés csak abban az esetben lehetséges, a mi álláspontunk szerint, ha a „devizanyilvántartásúnak” elnevezett vegyes jogviszonynak az értelmezése alapján azt kérjük a bíróságtól, hogy az ügyfélnek erre a vegyes jogviszonyra nem volt szerződéskötési akarata, bár kölcsön kért, és egy hitel viszonyba belépett, de nem egy olyan vegyes hitelviszonyba befektetőként, ahol befektetői kötelezettségekkel, befektetői jogok nélkül, befektetői terheket vállalna magára. Ezért akarati hibába ütközik minden egyes ilyen szerződés megkötése. Akarati hibának az a következménye, hogy a szerződés létre sem jött.</description>
+    </item>
+    
+  </channel>
+</rss>

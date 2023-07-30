@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>közösségi jog on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/kozossegi-jog/</link>
+    <description>Recent content in közösségi jog on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Fri, 05 Sep 2014 08:09:00 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/kozossegi-jog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Kúria akadályozza a közösségi jog érvényesülését</title>
+      <link>//localhost:1313/a-kuria-akadalyozza-a-kozossegi-jog-ervenyesuleset/</link>
+      <pubDate>Fri, 05 Sep 2014 08:09:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/a-kuria-akadalyozza-a-kozossegi-jog-ervenyesuleset/</guid>
+      <description>A Kúria jogegységi határozata felülírja (jogot alkot) a deviza nyilvántartású (hitel) jogviszony tartalmát azzal, hogy a többféle “devizahitelt” egy jogviszony alá rendeli. Holott azoknál a belső jogok-kötelezettségek, a következmények, a tényállások egészen mások.
+A devizahitel esetén a bank valamely devizaforrása terhére devizát bocsát az adós rendelkezésére, aki azt devizában köteles megfizetni.
+A deviza alapú hitel esetén a bank valamely devizaforrása terhére egyszeri devizaügyletből deviza átváltásból származó Ft-hitelt nyújt az adósnak. Ekkor az adós Ft-ban is, devizában is törleszthet, és a deviza-konverzió valóságos.</description>
+    </item>
+    
+    <item>
+      <title>Hibrid szerződések határok nélkül</title>
+      <link>//localhost:1313/hibrid-szerzodesek-hatarok-nelkul/</link>
+      <pubDate>Mon, 18 Aug 2014 11:08:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/hibrid-szerzodesek-hatarok-nelkul/</guid>
+      <description>A Juzgado Mercantil de Barcelona (Spanyolország) által 2011. december 30-án benyújtott előzetes döntéshozatal iránti kérelmek (C-664/11. és C-665/11. sz. ügy)
+Az eljárás nyelve: spanyol
+Az előzetes döntéshozatalra elő terjesztett kérdések
+ Befektetési tanácsadási szolgáltatásnak kell-e tekinteni a MiFID-irányelv 4. cikke (1) bekezdésének 4. pontjában foglalt meghatározás alapján, ha a hitelintézet ügyfelének kamatswap-ügyletet kínál fel korábbi pénzügyi ügyletek kamatváltozásaiból eredő kockázat fedezésére?
+ Meg kell-e állapítani a befektető és a tanácsadó hitelintézet által megkötött kamatswap–ügylet semmisségét a hivatkozott irányelv 19.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kölemény on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/kolemeny/</link>
+    <description>Recent content in kölemény on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Wed, 15 Jun 2016 10:06:21 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/kolemeny/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nem tartozunk és nem adjuk a házunk!</title>
+      <link>//localhost:1313/nem-tartozunk-nem-adjuk-hazunk/</link>
+      <pubDate>Wed, 15 Jun 2016 10:06:21 +0000</pubDate>
+      
+      <guid>//localhost:1313/nem-tartozunk-nem-adjuk-hazunk/</guid>
+      <description>A nemtartozunk.hu munkacsoportja örömmel tudatja &amp;#8220;híveivel&amp;#8221;, hogy a „kéteshírű” honlapunk kutatásaira alapított „fogalmilag kizárt”, „érthetetlen”, és „úgy sem értik”, „kellékhiányos”, valamint „egyedi tényállást nélkülöző”, illetve „internetről leszedett feltételezésekre alapított” keresetünknek helyt adott egy bíróság, a kézbekapott ítélet alapján. Még nem jogerős, de az idézőjelbe tett előítéletek tarthatatlanságáról bizonyosságot kaptunk. És mivel az ítélet bizonyításon, és szakértői véleményen is alapul, amely a keresetünket igazolta, ez arra is bizonyosság, hogy egy adós kérelmére vizsgálta egy bíróság egy pénzügyi terméknek a pénzszolgáltatási szerződés általi értékesítését: a szerződéskötést megelőző körülményekre, a szerződéskötésre, a szerződés valóságos teljesülése, és a pénzügyi termék valóságos követelésjoga és tartozáskötelezettsége tárgyában.</description>
+    </item>
+    
+  </channel>
+</rss>

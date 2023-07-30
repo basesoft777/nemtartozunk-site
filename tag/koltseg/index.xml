@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>költség on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/koltseg/</link>
+    <description>Recent content in költség on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Thu, 12 Jun 2014 10:06:00 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/koltseg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Újabb rejtett költségelem a deviza alapú hiteleknél!</title>
+      <link>//localhost:1313/ujabb-rejtett-koltsegelem/</link>
+      <pubDate>Thu, 12 Jun 2014 10:06:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/ujabb-rejtett-koltsegelem/</guid>
+      <description>Egy eddig szinte észrevétlen költségelem rendkívül nagy emelkedése miatt elképzelhető, hogy 2-3 hónap múlva jelentős havi törlesztőrészlet-emelkedéssel szembesülnek a magyarországi háztartási devizahitelesek. Mindez úgy is bekövetkezhet, hogy közben a forint viszonylag stabil marad és a külföldi devizák kamattartalma még csökken is. A kormány és a nagy kereskedelmi bankok által múlt pénteken bejelentett megállapodás némileg segíthet a helyzeten, de a jelek szerint a kormány inkább csak látszólag akarja megvédeni a devizaadósokat a növekvő pénzügyi terhektől.</description>
+    </item>
+    
+  </channel>
+</rss>

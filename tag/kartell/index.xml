@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kartell on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/kartell/</link>
+    <description>Recent content in kartell on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Mon, 30 Nov 2015 09:11:19 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/kartell/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A devizahitel-katasztrófa bennfentes története</title>
+      <link>//localhost:1313/devizahitel-katasztrofa-bennfentes-tortenete/</link>
+      <pubDate>Mon, 30 Nov 2015 09:11:19 +0000</pubDate>
+      
+      <guid>//localhost:1313/devizahitel-katasztrofa-bennfentes-tortenete/</guid>
+      <description>A közelmúltban jelent meg a &amp;#8220;deviza-alapú&amp;#8221; hitelről a VS.hu online újság kiadásában egy dokumentumfilm-prezentáció. A &amp;#8220;devizahitelről&amp;#8221; szóló prezentáció tartalma korrekt és alapos! Ugyanakkor néhány dologban kiegészítésre szorul a prezentáció, szerintünk, amit itt leírunk. Állításaink bizonyítani is tudjuk, ellenkezőjét, eddigi tapasztalataink szerint, a bankok nem tudják.
+ A magyar &amp;#8220;deviza-alapú&amp;#8221; hitelezés 2003. év végétől nem devizaforrású Ft-hitelek voltak, hanem szintetikus devizával ellentételezett Ft-hitelek. Ezért a bankárok által forráshiánynak nevezett finanszírozási helyzet, egészen a forintosításig fennállt, mert ekkor látta el az MNB közel 8 milliárd Euróval a kereskedelmi bankokat egyszeri devizaforrással, az addig devizaforrás nélküli, szintetikus devizával ellentételezett Ft-hiteleket, a szintetikus deviza kivezetésére.</description>
+    </item>
+    
+    <item>
+      <title>Nehogy egy másik bank szövege sokkal jobban feltárja a kockázatot
+</title>
+      <link>//localhost:1313/a-ket-kockazatfeltaro-nyilatkozattal-kapcsolatosan/</link>
+      <pubDate>Thu, 05 Jun 2014 08:06:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/a-ket-kockazatfeltaro-nyilatkozattal-kapcsolatosan/</guid>
+      <description>A két kockázatfeltáró nyilatkozattal kapcsolatosan az merült fel, hogy a hitelezés kapcsán – a vételi jogon és az árfolyamkockázaton kívül – még sok hasonlóan nagy kockázat (kamat-, törlesztési-, kezesi-, óvadéki kockázat) éri az ügyfelet, mégsem lehet az összesről külön nyilatkozatot készíteni. A bankok mindenesetre fontosnak tartották, hogy e nyilatkozatok minden banknál egységesek legyenek, nehogy az ügyfél utólag – bukás esetén – azt mondhassa, hogy egy másik bank szövege sokkal jobban feltárta a kockázatot, s annak alapján nem vette volna fel a hitelt.</description>
+    </item>
+    
+  </channel>
+</rss>
