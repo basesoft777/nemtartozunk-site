@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>árfolyam on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/arfolyam/</link>
+    <description>Recent content in árfolyam on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Fri, 17 Jul 2015 02:07:43 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/arfolyam/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Árfolyam-pozíció nyitása nélkül</title>
+      <link>//localhost:1313/arfolyam-pozicio-nyitasa-nelkul/</link>
+      <pubDate>Fri, 17 Jul 2015 02:07:43 +0000</pubDate>
+      
+      <guid>//localhost:1313/arfolyam-pozicio-nyitasa-nelkul/</guid>
+      <description> A devizaopciók lehetőséget nyújtanak nekik arra, hogy árfolyam-pozíció nyitása nélkül „fogadjanak” a várt volatilitás változására, illetve, hogy összetett opciós kombinációkkal az árfolyam-, hozam- és volatilitás elmozdulásra tetszőlegesen érzékeny pozíciókat építsenek fel.
+ Jelentés a pénzügyi stabilitásról – 2003. december MNB  </description>
+    </item>
+    
+    <item>
+      <title>Az FX-swap ügylet piaci értéke</title>
+      <link>//localhost:1313/az-fx-swap-ugylet-piaci-erteke/</link>
+      <pubDate>Mon, 18 Aug 2014 07:08:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/az-fx-swap-ugylet-piaci-erteke/</guid>
+      <description> Az FX-swap ügylet piaci értéke csak a devizakamatra, és – szemben a határidős ügyletekkel – nem a teljes tőkére vetítve függ a devizaárfolyam lejáratkori alakulásától. Az FX-swap ügylet így önmagában lényegében egy zárt pozíciónak tekinthető abban az értelemben, hogy csak a devizakamatra eső árfolyamkockázatot tartalmazza.
+ Páles Judit −Kuti Zsolt−Csávás Csaba:A devizaswapok szerepe a hazai bankrendszerben és a swappiac válság alatti működésének vizsgálata  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>analfabéták on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/analfabetak/</link>
+    <description>Recent content in analfabéták on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Fri, 22 Aug 2014 06:08:00 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/analfabetak/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Az államnak fellebbeznie kell, avagy</title>
+      <link>//localhost:1313/az-allamnak-fellebbeznie-kell-avagy/</link>
+      <pubDate>Fri, 22 Aug 2014 06:08:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/az-allamnak-fellebbeznie-kell-avagy/</guid>
+      <description>Az államnak fellebbeznie kell, avagy
+a bíróság tökön rúgta a kormányt, a kormány tökön rúgta az adósokat, öngólt lőtt a törvényalkotó a szöveggel… Megint hülyére vettek minket. A perköltség az egyetlen nyereség.
+A mai perben a takarékszövetkezet keresete az volt, hogy neki magának nincs is kereshetőségi joga ebben a perben, ugyanis a törvény hatálya nem terjed ki rá, mivel ők az ügyfelekkel egyedileg megtárgyalták ezeket az egyoldalú szerződésmódosító feltételeket, amelyek egyébként tisztességesek.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bank on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/bank/</link>
+    <description>Recent content in bank on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Sun, 17 Jul 2016 02:07:12 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/bank/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pénzszolgáltatási jogviszony</title>
+      <link>//localhost:1313/penzszolgaltatasi-jogviszony/</link>
+      <pubDate>Sun, 17 Jul 2016 02:07:12 +0000</pubDate>
+      
+      <guid>//localhost:1313/penzszolgaltatasi-jogviszony/</guid>
+      <description>A magánjogi szerződések jogviszonyának általában szokásos értelmezése során, a jogalkotó és jogalkalmazó a szerződésből indul ki a felek jogainak, és kötelezettségeinek megítélésekor. A pénzszolgáltatási szerződések során azonban az a különleges egyedi helyzet, hogy az ilyen szerződés során hitelpénz, közpénz jön létre olyan jogi kiváltságokat élvező pénzszolgáltató (pénzügyi intézmények: hitelintézetek, és pénzelosztó pénzügyi vállalkozások) és adós között, amelyek magánjogi szerződések. De ezeknek a tárgya maga is követelésjog, és tartozáskötelezettség együttese, amelyben hitelpénz keletkezik: közpénz, Ft-hiteltőke a semmiből (a banknak előbb keletkezik követelése az adóssal szemben, mielőtt ehhez bevételi forrása lenne: „levegőpénz”-hitelszámla).</description>
+    </item>
+    
+    <item>
+      <title>Kisértékű nyerések</title>
+      <link>//localhost:1313/kiserteku-nyeresek/</link>
+      <pubDate>Wed, 10 Feb 2016 07:02:37 +0000</pubDate>
+      
+      <guid>//localhost:1313/kiserteku-nyeresek/</guid>
+      <description>Kisértékű és rövidtávú pernyerések azok olyanok, amelyeket kisértékű, és jelentéktelen vétkekkel nyerünk a bankok elleni „devizás” perekben. Mert a bankok mérhetetlen bűneit ezek is elleplezik, és jelentéktelenítik. És az ilyen pernyerések, a pillanatnyi „örömünk” megélésén túl, nem biztos, hogy nyerések maradnak másodfokon, a felsőbb bíróságokon, sőt az EU bíróságai előtt is. Pedig a mi igazságszolgáltatási rendszerünk odáig tart már… És minden döntési szinten a banki bűnök elítélése az egyetlen esély arra, hogy megfizessenek a gazságukért, és soha többé (az államunk devizanyilvántartású, még kézműves, eladósítása a kádári rendszer óta, betetőzve a mostani hasonló, de ipari állam- és lakossági, és közösségi eladósításunkig) meg ne merészeljék tenni újból, e hazában.</description>
+    </item>
+    
+    <item>
+      <title>A pénz, mint adósság! - Prof. Franz Hörmann</title>
+      <link>//localhost:1313/penz-mint-adossag/</link>
+      <pubDate>Fri, 08 Jan 2016 11:01:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/penz-mint-adossag/</guid>
+      <description>Ez a pénzrendszer csak úgy működik ha az emberek hisznek benne.
+  </description>
+    </item>
+    
+    <item>
+      <title>Kérdések a bankhoz</title>
+      <link>//localhost:1313/kerdesek-a-bankhoz/</link>
+      <pubDate>Sun, 22 Mar 2015 05:03:06 +0000</pubDate>
+      
+      <guid>//localhost:1313/kerdesek-a-bankhoz/</guid>
+      <description>A kormány elszámoltatja a bankokat &amp;#8230;számoltassuk el őket mi is. Javasoljuk, hogy az elszámolások (szerződésmódosítások) átvételét követően tegyék fel nekik ezeket a kérdéseket a minták alapján.
+Tisztelt Bank!
+Devizahitelem van. Valójában deviza nyilvántartású hitelem van. A hitel felvételekor nem voltam tisztában a bank hiteltermékéről. Csak azt tudtam, hogy felelősséggel döntöttem a családommal együtt a kölcsönkérelmem benyújtásakor. És rosszul jártam a hiteltermékkel, amelyet értékesítettek nekem, annak érdekében, hogy kölcsönt kapjak, és valamiért ezzel nem számoltam, és nem is számolhattam a bank tájékoztatása alapján.</description>
+    </item>
+    
+    <item>
+      <title>A devizaalapú hitelezésből eredő forintkereslet</title>
+      <link>//localhost:1313/devizaalapu-hitelezesbol-eredo-forintkereslet/</link>
+      <pubDate>Sat, 04 Oct 2014 09:10:04 +0000</pubDate>
+      
+      <guid>//localhost:1313/devizaalapu-hitelezesbol-eredo-forintkereslet/</guid>
+      <description> A devizaalapú hitelezésből eredő forintkereslet tehát a bankok közvetítésével jelenik meg a devizapiacon.
+ Csávás Csaba−Kóczán Gergely−Varga Lóránt:A főbb hazai pénzügyi piacok meghatározó szereplői és jellemző kereskedési stratégiái  </description>
+    </item>
+    
+  </channel>
+</rss>

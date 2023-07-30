@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>adósság on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/adossag/</link>
+    <description>Recent content in adósság on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Fri, 08 Jan 2016 11:01:00 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/adossag/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A pénz, mint adósság! - Prof. Franz Hörmann</title>
+      <link>//localhost:1313/penz-mint-adossag/</link>
+      <pubDate>Fri, 08 Jan 2016 11:01:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/penz-mint-adossag/</guid>
+      <description>Ez a pénzrendszer csak úgy működik ha az emberek hisznek benne.
+  </description>
+    </item>
+    
+    <item>
+      <title>Röpirat a deviza(követelés)-hatalomról</title>
+      <link>//localhost:1313/ropirat-a-devizakoveteles-hatalomrol/</link>
+      <pubDate>Fri, 12 Dec 2014 12:12:58 +0000</pubDate>
+      
+      <guid>//localhost:1313/ropirat-a-devizakoveteles-hatalomrol/</guid>
+      <description>A deviza hiteleknek nevezett pénzügyi banki termékek szégyent, megalázottságot, és kifosztottságot hoztak a nőknek, férfiaknak, családoknak, közösségeknek. Mégsem találjuk őket az utcán tüntetni a nyilvánvaló helyzetük miatt. 6-7 millió érintett emberről beszélünk, akik megváltásra vártak, miután tőrbe csalták őket, megmentést ígértek nekik, és az új jogszabályok miatt a jogállami, törvényelőtti egyenlőségüktől is megfosztattak a banki önkénnyel szemben.
+Ez a banki önkény ma már nem korlátozott a jogállami, törvény előtti egyenlőség garanciáival.</description>
+    </item>
+    
+    <item>
+      <title>Egy forinthitel és egy kockázatos befektetés kombinációja
+</title>
+      <link>//localhost:1313/egy-kockazatos-befektetes/</link>
+      <pubDate>Fri, 13 Jun 2014 07:06:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/egy-kockazatos-befektetes/</guid>
+      <description> Az általam ajánlott felfogás voltaképp egyfajta dekompozícióra épül. A devizaalapú, változó kamatozású adóspozíciót egy forinthitel és egy kockázatos befektetés kombinációjaként állítja elő.
+ Schepp Zoltán:Néhány gondolat a változó kamatozású devizafinanszírozás kockázatairól  </description>
+    </item>
+    
+  </channel>
+</rss>

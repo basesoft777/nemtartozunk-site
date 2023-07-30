@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>árfolyampozíció on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/arfolyampozicio/</link>
+    <description>Recent content in árfolyampozíció on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Fri, 17 Jul 2015 02:07:43 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/arfolyampozicio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Árfolyam-pozíció nyitása nélkül</title>
+      <link>//localhost:1313/arfolyam-pozicio-nyitasa-nelkul/</link>
+      <pubDate>Fri, 17 Jul 2015 02:07:43 +0000</pubDate>
+      
+      <guid>//localhost:1313/arfolyam-pozicio-nyitasa-nelkul/</guid>
+      <description> A devizaopciók lehetőséget nyújtanak nekik arra, hogy árfolyam-pozíció nyitása nélkül „fogadjanak” a várt volatilitás változására, illetve, hogy összetett opciós kombinációkkal az árfolyam-, hozam- és volatilitás elmozdulásra tetszőlegesen érzékeny pozíciókat építsenek fel.
+ Jelentés a pénzügyi stabilitásról – 2003. december MNB  </description>
+    </item>
+    
+  </channel>
+</rss>

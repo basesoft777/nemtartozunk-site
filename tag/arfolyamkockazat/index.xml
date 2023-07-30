@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>árfolyamkockázat on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/arfolyamkockazat/</link>
+    <description>Recent content in árfolyamkockázat on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Fri, 17 Jul 2015 02:07:43 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/arfolyamkockazat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Árfolyam-pozíció nyitása nélkül</title>
+      <link>//localhost:1313/arfolyam-pozicio-nyitasa-nelkul/</link>
+      <pubDate>Fri, 17 Jul 2015 02:07:43 +0000</pubDate>
+      
+      <guid>//localhost:1313/arfolyam-pozicio-nyitasa-nelkul/</guid>
+      <description> A devizaopciók lehetőséget nyújtanak nekik arra, hogy árfolyam-pozíció nyitása nélkül „fogadjanak” a várt volatilitás változására, illetve, hogy összetett opciós kombinációkkal az árfolyam-, hozam- és volatilitás elmozdulásra tetszőlegesen érzékeny pozíciókat építsenek fel.
+ Jelentés a pénzügyi stabilitásról – 2003. december MNB  </description>
+    </item>
+    
+    <item>
+      <title>Árfolyam-kockázati kitettség</title>
+      <link>//localhost:1313/arfolyam-kockazati-kitettseg/</link>
+      <pubDate>Mon, 18 Aug 2014 08:08:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/arfolyam-kockazati-kitettseg/</guid>
+      <description> Ha a bank a devizalikviditást egy egyszerű azonnali devizaügylet (konverzió) segítségével biztosítja, akkor az árfolyamkockázati kitettsége fennmarad, s ez pótlólagos tőkekövetelményt vonhat maga után.
+Ha a teljes nyitott devizapozíció meghaladja a túllépések levonása előtti szavatoló tőke két százalékát, akkor az összesített nyitott pozíció nyolc százaléka után kell tőkét képezni.
+ Mák István−Páles Judit:Az FX-swap piac szerepe a hazai pénzügyi rendszerben  </description>
+    </item>
+    
+    <item>
+      <title>Nehogy egy másik bank szövege sokkal jobban feltárja a kockázatot
+</title>
+      <link>//localhost:1313/a-ket-kockazatfeltaro-nyilatkozattal-kapcsolatosan/</link>
+      <pubDate>Thu, 05 Jun 2014 08:06:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/a-ket-kockazatfeltaro-nyilatkozattal-kapcsolatosan/</guid>
+      <description>A két kockázatfeltáró nyilatkozattal kapcsolatosan az merült fel, hogy a hitelezés kapcsán – a vételi jogon és az árfolyamkockázaton kívül – még sok hasonlóan nagy kockázat (kamat-, törlesztési-, kezesi-, óvadéki kockázat) éri az ügyfelet, mégsem lehet az összesről külön nyilatkozatot készíteni. A bankok mindenesetre fontosnak tartották, hogy e nyilatkozatok minden banknál egységesek legyenek, nehogy az ügyfél utólag – bukás esetén – azt mondhassa, hogy egy másik bank szövege sokkal jobban feltárta a kockázatot, s annak alapján nem vette volna fel a hitelt.</description>
+    </item>
+    
+    <item>
+      <title>Egy árfolyam növekedés bekövetkeztével kell számolni</title>
+      <link>//localhost:1313/normal-esetben-egy-arfolyam-novekedes/</link>
+      <pubDate>Thu, 05 Jun 2014 07:06:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/normal-esetben-egy-arfolyam-novekedes/</guid>
+      <description> NORMÁL ESETBEN egy árfolyam növekedés bekövetkeztével kell számolni.
+ Kovács Levente a Bankszövetség főtitkárának az Országgyűlés Fogyasztóvédelmi bizottságának 2013. február 25-én, hétfőn 10 óra 3 perckor a Képviselői Irodaház 562. számú tanácstermében megtartott üléséről  </description>
+    </item>
+    
+  </channel>
+</rss>

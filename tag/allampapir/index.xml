@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>állampapír on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/allampapir/</link>
+    <description>Recent content in állampapír on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Sun, 06 Dec 2015 12:12:29 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/allampapir/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IMF-EKB hitellel megmentették a devizahiteleseket? (Válasz &#34;BANKÁRNAK&#34;)
+</title>
+      <link>//localhost:1313/imf-ekb-hitellel-megmentettek-devizahiteleseket-valasz-bankarnak/</link>
+      <pubDate>Sun, 06 Dec 2015 12:12:29 +0000</pubDate>
+      
+      <guid>//localhost:1313/imf-ekb-hitellel-megmentettek-devizahiteleseket-valasz-bankarnak/</guid>
+      <description>2008 végén mindössze 16 milliárd euró volt a MNB devizatartaléka, az állam devizaadóssága ugyanakkor mintegy 40 milliárd euró. Ezért kellett felvenni a 25 milliárd eurót az IMF-től. &amp;ndash; BANKÁR
+ Ezt az észrevételt kaptuk A HIBRID című könyvünkre. Nyilvánosan erről szóltak a híradások. De nézzünk mögé.
+A „devizaalapú” Ft-hitelek szerves részét képező szintetikus deviza megújításának partnerbanki hiánya miatt fellépő bankcsődök lehetőségéről, és okairól nem lehetett beszélni nyilvánosan, az IMF- EKB-Valutaalap hitel kapcsán.</description>
+    </item>
+    
+    <item>
+      <title>FX-swap &#43; forint állampapír stratégia</title>
+      <link>//localhost:1313/swap-forint-allampapir-strategia/</link>
+      <pubDate>Wed, 27 Aug 2014 11:08:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/swap-forint-allampapir-strategia/</guid>
+      <description> A szintetikus devizaforrás szerzése esetén a külföldiek FX-swap + forint állampapír stratégiája tekinthető szintetikus devizahitel nyújtásának. A külföldiek spot + FX-swap stratégiája gyakorlatilag szintetikus határidős (rövid forint) pozíció felvételét jelenti.
+ Páles Judit −Kuti Zsolt−Csávás Csaba:A devizaswapok szerepe a hazai bankrendszerben és a swappiac válság alatti működésének vizsgálata  </description>
+    </item>
+    
+  </channel>
+</rss>
