@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ügyvéd on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/ugyved/</link>
+    <description>Recent content in ügyvéd on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Thu, 14 Aug 2014 10:08:30 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/ugyved/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Az állam ügyvédjei</title>
+      <link>//localhost:1313/allam-ugyvedjei/</link>
+      <pubDate>Thu, 14 Aug 2014 10:08:30 +0000</pubDate>
+      
+      <guid>//localhost:1313/allam-ugyvedjei/</guid>
+      <description>A bankoknak bíróságon kell megvédeniük az egyoldalú szerződésmódosítást. Öt iroda 150 ügyvédje képviseli az államot a perekben &amp;#8211; írja a HVG. A HVG úgy tudja, az ügyvédi irodákat a Nemzeti Fejlesztési Minisztérium meghívásos pályázaton kérte fel, ők öten adtak érvényes ajánlatot, és mivel egyedül egyiknek sem volt meg a szükséges 150 ügyvédje, így összedolgoznak majd. A csapatot az osztrák hátterű CHSH Dezső és Társai Ügyvédi Iroda fogja össze. A többi iroda a Kovács, Barborják és Társai Rátky Miklós és Társai Réti, Antal és Társai SBGK Ügyvédi Iroda.</description>
+    </item>
+    
+  </channel>
+</rss>

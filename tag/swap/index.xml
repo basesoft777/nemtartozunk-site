@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>swap on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/swap/</link>
+    <description>Recent content in swap on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Sat, 01 Apr 2017 05:04:06 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/swap/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Lantos-ügy igazolja a jogegységi döntést?</title>
+      <link>//localhost:1313/lantos-ugy-igazolja-jogegysegi-dontest/</link>
+      <pubDate>Sat, 01 Apr 2017 05:04:06 +0000</pubDate>
+      
+      <guid>//localhost:1313/lantos-ugy-igazolja-jogegysegi-dontest/</guid>
+      <description>Lantos- ítélet (C-312/14) befektetés elutasítása igazolja a jogegységi döntést, hogy nincs és nem vizsgálható a befektetési elem egy hitelszerződésben.; halljuk sokfelől, hol bíráktól, hol bankoktól.
+Ez az állítás hamis, és iratellenes.
+ A Lantos féle ítélet devizaforrással ellátott Ft-hitel banki devizaforrás-teremtő tartozásának árfolyamkockázata kezeléséről mondta ki hogy az nem befektetés, és az ilyen, nem befektetéssel vegyes hitel. Szerintünk is így van. De ez önmagában is bizonyítja, hogy vizsgálni kell a devizaelem minőségét egy jogviszonyban.</description>
+    </item>
+    
+  </channel>
+</rss>

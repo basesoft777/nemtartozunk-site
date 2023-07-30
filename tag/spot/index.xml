@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spot on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/spot/</link>
+    <description>Recent content in spot on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Mon, 20 Jul 2015 08:07:17 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/spot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Névérték cseréje</title>
+      <link>//localhost:1313/nevertek-csereje/</link>
+      <pubDate>Mon, 20 Jul 2015 08:07:17 +0000</pubDate>
+      
+      <guid>//localhost:1313/nevertek-csereje/</guid>
+      <description>Az FX-swap egy származtatott pénzügyi piaci ügylet, mely két lábból áll. Az ügylet induló (vagy azonnali, spot) lábán a partnerek két különböző devizát cserélnek el egymással, amelyet a lejáró (vagy határidős, termin) lábon visszacserélnek. Az induló és határidős árfolyamokról egyaránt megállapodnak már az ügylet megkötésekor. Az FX-swapot szokás egyszerű devizaswapnak is hívni, hiszen a névértékek cseréjén túl nem történik több tranzakció a partnerek között, szemben a kamatozó devizacsere- ügylettel (currency interest rate swap, CIRS), ahol kamatokat (is) fizetnek egymásnak a felek a futamidő során.</description>
+    </item>
+    
+    <item>
+      <title>FX-swappal finanszírozott spot devizapozíció felvétele</title>
+      <link>//localhost:1313/fx-swappal-finanszirozott-spot-devizapozicio-felvetele/</link>
+      <pubDate>Thu, 16 Jul 2015 07:07:28 +0000</pubDate>
+      
+      <guid>//localhost:1313/fx-swappal-finanszirozott-spot-devizapozicio-felvetele/</guid>
+      <description>FX-swappal finanszírozott spot devizapozíció felvétele (szintetikus határidős pozíció)
+Ennek keretében az elsősorban devizapozíciót felvenni kívánó szereplő (jellemzően egy spekuláns) pozíció nyitására a sima határidősnél (outright forward) likvidebb spotpiacot használja, azonban, mivel a kérdéses devizában eszközt nem kíván szerezni (nem akar mérlegében változást látni), köt egy ezt finanszírozó swapügyletet is, melynek spotlába ellentétes irányú az eredeti spotügylettel. Így nettó pozíciója a swap forward-lábára korlátozódik, mely tehát az eredeti spotügylettel (a kívánt pozíciónyitási iránnyal) megegyező irányú, míg a spotlábon nincs pénzmozgás, mérlege változatlan.</description>
+    </item>
+    
+    <item>
+      <title>Belső konverzió</title>
+      <link>//localhost:1313/belso-konverzio/</link>
+      <pubDate>Thu, 25 Sep 2014 07:09:08 +0000</pubDate>
+      
+      <guid>//localhost:1313/belso-konverzio/</guid>
+      <description>A devizaalapú hitelek esetében a hitel nyújtásakor a forintra váltást, törlesztéskor a devizára váltást a hitelnyújtó bank automatikusan, közvetlenül végrehajtja – vagy a saját, vagy az ügyfél nevében. Ha a kihelyezett devizaösszeget az ügyfél javára egy másik bankkal kötött spotügylet révén váltja forintra, akkor az átváltáshoz használt spotügylet az adott bank mérlegében nem jelenik meg. Ha a bank saját maga váltja a devizaösszeget forintra az ügyfél számára (belső konverzió), akkor az FX-swap spot lábán szerzett devizát a bank az azonnali devizapiacon (saját nevében) eladja és forintot vesz érte, s ekkor a spotügylet megjelenik a bank mérlegében (az utóbbi esetet illusztrálja a 4.</description>
+    </item>
+    
+    <item>
+      <title>Egy adott devizanemű finanszírozási eszköz szintetikusan előállítható
+</title>
+      <link>//localhost:1313/finanszirozasi-eszkoz-szintetikusan-eloallithato/</link>
+      <pubDate>Fri, 22 Aug 2014 07:08:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/finanszirozasi-eszkoz-szintetikusan-eloallithato/</guid>
+      <description>Az FX-swap ügylet felépítéséből adódóan lehetővé teszi egyrészt a különböző devizanemben fennálló likvid eszközök (készpénz,számlapénz) cseréjét a spot lábon keresztül, ezzel egyidejűleg az emiatt változó devizapozíció fedezését a termin lábon keresztül. Ennek köszönhetően az ügylettel a szükséges denominációjú likviditás biztosítható az eredeti devizapozíció változtatása nélkül. Vagy másképpen: a devizaswapügylet felhasználásával egy finanszírozási eszköz devizaneme megváltoztatható, illetve egy adott devizanemű finanszírozási eszköz szintetikusan előállítható (hitel/betét + devizaswap). ugyanakkor az FX-swap és spotügyletek együttes alkalmazásával a piaci szereplők szintetikus határidős devizapozíciót tudnak felvállalni, illetve ennek révén a meglévő árfolyamkitettségüket zárni tudják: ekkor az FX-swap ügylet spot lába és az azzal ellentétes irányú spotügylet semlegesíti egymást, a megmaradó határidős láb pedig egy határidős ügylettel egyenértékű.</description>
+    </item>
+    
+  </channel>
+</rss>

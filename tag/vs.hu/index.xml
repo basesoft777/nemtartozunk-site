@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vs.hu on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/vs.hu/</link>
+    <description>Recent content in vs.hu on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Mon, 30 Nov 2015 09:11:19 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/vs.hu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A devizahitel-katasztrófa bennfentes története</title>
+      <link>//localhost:1313/devizahitel-katasztrofa-bennfentes-tortenete/</link>
+      <pubDate>Mon, 30 Nov 2015 09:11:19 +0000</pubDate>
+      
+      <guid>//localhost:1313/devizahitel-katasztrofa-bennfentes-tortenete/</guid>
+      <description>A közelmúltban jelent meg a &amp;#8220;deviza-alapú&amp;#8221; hitelről a VS.hu online újság kiadásában egy dokumentumfilm-prezentáció. A &amp;#8220;devizahitelről&amp;#8221; szóló prezentáció tartalma korrekt és alapos! Ugyanakkor néhány dologban kiegészítésre szorul a prezentáció, szerintünk, amit itt leírunk. Állításaink bizonyítani is tudjuk, ellenkezőjét, eddigi tapasztalataink szerint, a bankok nem tudják.
+ A magyar &amp;#8220;deviza-alapú&amp;#8221; hitelezés 2003. év végétől nem devizaforrású Ft-hitelek voltak, hanem szintetikus devizával ellentételezett Ft-hitelek. Ezért a bankárok által forráshiánynak nevezett finanszírozási helyzet, egészen a forintosításig fennállt, mert ekkor látta el az MNB közel 8 milliárd Euróval a kereskedelmi bankokat egyszeri devizaforrással, az addig devizaforrás nélküli, szintetikus devizával ellentételezett Ft-hiteleket, a szintetikus deviza kivezetésére.</description>
+    </item>
+    
+  </channel>
+</rss>

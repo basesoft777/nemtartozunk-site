@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spanyol on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/spanyol/</link>
+    <description>Recent content in spanyol on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Mon, 18 Aug 2014 11:08:00 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/spanyol/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hibrid szerződések határok nélkül</title>
+      <link>//localhost:1313/hibrid-szerzodesek-hatarok-nelkul/</link>
+      <pubDate>Mon, 18 Aug 2014 11:08:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/hibrid-szerzodesek-hatarok-nelkul/</guid>
+      <description>A Juzgado Mercantil de Barcelona (Spanyolország) által 2011. december 30-án benyújtott előzetes döntéshozatal iránti kérelmek (C-664/11. és C-665/11. sz. ügy)
+Az eljárás nyelve: spanyol
+Az előzetes döntéshozatalra elő terjesztett kérdések
+ Befektetési tanácsadási szolgáltatásnak kell-e tekinteni a MiFID-irányelv 4. cikke (1) bekezdésének 4. pontjában foglalt meghatározás alapján, ha a hitelintézet ügyfelének kamatswap-ügyletet kínál fel korábbi pénzügyi ügyletek kamatváltozásaiból eredő kockázat fedezésére?
+ Meg kell-e állapítani a befektető és a tanácsadó hitelintézet által megkötött kamatswap–ügylet semmisségét a hivatkozott irányelv 19.</description>
+    </item>
+    
+  </channel>
+</rss>

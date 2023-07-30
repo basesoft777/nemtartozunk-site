@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>származtatott on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/szarmaztatott/</link>
+    <description>Recent content in származtatott on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Thu, 21 Aug 2014 07:08:00 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/szarmaztatott/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Származtatott termék</title>
+      <link>//localhost:1313/az-fx-swap-ugylet-alapvetoen/</link>
+      <pubDate>Thu, 21 Aug 2014 07:08:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/az-fx-swap-ugylet-alapvetoen/</guid>
+      <description> Az FX-swap ügylet alapvetően nem egy finanszírozási eszköz, hanem egy adott finanszírozási eszköz (pl. hitel, betét) devizanemének cseréjét lehetővé tevő származtatott termék, így alacsonyabb hitelkockázatot tartalmaz, mint a fedezetlen bankközi kihelyezés.
+ Páles Judit −Kuti Zsolt−Csávás Csaba:A devizaswapok szerepe a hazai bankrendszerben és a swappiac válság alatti működésének vizsgálata  </description>
+    </item>
+    
+  </channel>
+</rss>

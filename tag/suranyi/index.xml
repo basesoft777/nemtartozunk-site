@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>surányi on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/suranyi/</link>
+    <description>Recent content in surányi on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Fri, 13 Jun 2014 11:06:00 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/suranyi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Surányi György és Róna Péter: A devizahitelek, a Kúria döntése és a bankrendszer.</title>
+      <link>//localhost:1313/suranyi-gyorgy-es-rona-peter/</link>
+      <pubDate>Fri, 13 Jun 2014 11:06:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/suranyi-gyorgy-es-rona-peter/</guid>
+      <description>Az Ökopódium vendégei: RÓNA Péter, közgazdász, az Oxfordi Blackfriars Hall professzora SURÁNYI György, az MNB és a CIB Bank volt elnöke SCHMUCK Erzsébet, országgyűlési képviselő, az Ökopolisz Alapítvány társelnöke
+Mi lesz a deviza-hitelekkel a Kúria jogegységi határozata után? Mi lesz a hitelfelvevőkkel és mi lesz a bankrendszerrel?
+  </description>
+    </item>
+    
+    <item>
+      <title>Surányi György, volt jegybankelnök vallomása a devizahitelekről
+</title>
+      <link>//localhost:1313/suranyi-gyorgy-volt-jegybankelnok-vallomasa/</link>
+      <pubDate>Thu, 05 Jun 2014 07:06:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/suranyi-gyorgy-volt-jegybankelnok-vallomasa/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>
