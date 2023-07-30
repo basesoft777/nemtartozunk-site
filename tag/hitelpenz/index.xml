@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hitelpénz on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/hitelpenz/</link>
+    <description>Recent content in hitelpénz on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Fri, 01 Feb 2019 16:06:00 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/hitelpenz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kérdéseink Király Júliához</title>
+      <link>//localhost:1313/kerdeseink-kiraly-juliahoz/</link>
+      <pubDate>Fri, 01 Feb 2019 16:06:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/kerdeseink-kiraly-juliahoz/</guid>
+      <description>Király Júlia személyes Facebook oldalán a devizahitellel kapcsolatos írására szeretnénk reagálni néhány mondattal. A hozzászólás:
+ Összeesküvés-elméletekről devizahitelek, kamatok, árfolyamok kapcsán.Számos hozzászólás érkezett az eddigi devizahiteles problémával foglalkozó bejegyzésekre, ezért néhány felvetésre ezúton reagálok.Az összeesküvés-elméletek egyik visszatérő tézise szerint „a bankok spekuláltak az árfolyamgyengülésre, ezért adósították el a lakosságot devizában”. A bankokat valóban súlyos felelősség terheli a devizahitel-buborék kialakulásáért, de a fenti vád alól felmenthetjük őket. A bankok éppen annyi devizaforrással rendelkeztek, amennyi devizahitelt nyújtottak.</description>
+    </item>
+    
+    <item>
+      <title>Deviza alapú pénztermék
+</title>
+      <link>//localhost:1313/devizaalapu-penztermek/</link>
+      <pubDate>Sat, 24 Nov 2018 10:06:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/devizaalapu-penztermek/</guid>
+      <description>Szemelvényeket közlünk a nemrég megjelent könyvben közreadott tanulmányunkból.
+ Kötetünk írásaiból a Tisztelt Olvasó megismerheti azt a „speciális banki termék”-et, amit a közbeszédben „devizahitelnek” neveznek, és tájékozódhat a „devizahitelezés” történetéről, hazai és nemzetközi gyakorlatáról, jogszabályi hátteréről és annak változásairól egyaránt. Hazai és külföldi szerzőink között találhatunk jogászokat (ügyvédeket, bírákat), közgazdászokat, pénzügyi szakértőket, egyetemi oktatókat, de újságírót, politológust, szociológust, civil jogvédő szervezetek elkötelezett képviselőit is. Bízunk abban, hogy a szerzők eltérő látásmódja, megközelítési szempontjai tovább gazdagítják és pontosítják azt a meglehetősen ellentmondásos képet, amely eddig kialakult hazánkban arról a „deviza alapú kölcsön”-ként eladott „pénzügyi termék”-ről, ami mára sokszázezer honfitársunk számára súlyos anyagi-egzisztenciális gondok forrása lett.</description>
+    </item>
+    
+    <item>
+      <title>A befektetés-biznisz a devizaalapú hitel pénztermékben</title>
+      <link>//localhost:1313/befektetes-biznisz-devizaalapu-hitel-penztermekben/</link>
+      <pubDate>Mon, 05 Sep 2016 07:09:40 +0000</pubDate>
+      
+      <guid>//localhost:1313/befektetes-biznisz-devizaalapu-hitel-penztermekben/</guid>
+      <description>Egy másodfokú ítéletből ideidézett két bekezdés, alapvetően téves a pénzszolgáltatási kötelmi jogviszony fogalmára, mert releváns: miben állapodott meg valójában a bank és adósa És amiben megállapodtak a szolgáltató azt a pénzszolgáltatást nyújtja-e? A tartós jogviszony alatt a hitelt folyamatosan nyújtja a szolgáltató bank. Az valóban irreleváns az adós szempontjából, hogy a számvitel (Szám. tv. és 250/2000. Kormány rendelet) számlanyilvántartási szabályai szerint, a Hpt. szerinti hitelpénz-szolgáltatást a magán szerződés megkötésével induló tartós jogviszonyban, mint hitelszámla-követelést hogyan tartja fenn és követeli a pénzszolgáltató bank.</description>
+    </item>
+    
+  </channel>
+</rss>

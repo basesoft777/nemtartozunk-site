@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>határidős on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/hataridos/</link>
+    <description>Recent content in határidős on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Fri, 22 Aug 2014 07:08:00 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/hataridos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Egy adott devizanemű finanszírozási eszköz szintetikusan előállítható
+</title>
+      <link>//localhost:1313/finanszirozasi-eszkoz-szintetikusan-eloallithato/</link>
+      <pubDate>Fri, 22 Aug 2014 07:08:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/finanszirozasi-eszkoz-szintetikusan-eloallithato/</guid>
+      <description>Az FX-swap ügylet felépítéséből adódóan lehetővé teszi egyrészt a különböző devizanemben fennálló likvid eszközök (készpénz,számlapénz) cseréjét a spot lábon keresztül, ezzel egyidejűleg az emiatt változó devizapozíció fedezését a termin lábon keresztül. Ennek köszönhetően az ügylettel a szükséges denominációjú likviditás biztosítható az eredeti devizapozíció változtatása nélkül. Vagy másképpen: a devizaswapügylet felhasználásával egy finanszírozási eszköz devizaneme megváltoztatható, illetve egy adott devizanemű finanszírozási eszköz szintetikusan előállítható (hitel/betét + devizaswap). ugyanakkor az FX-swap és spotügyletek együttes alkalmazásával a piaci szereplők szintetikus határidős devizapozíciót tudnak felvállalni, illetve ennek révén a meglévő árfolyamkitettségüket zárni tudják: ekkor az FX-swap ügylet spot lába és az azzal ellentétes irányú spotügylet semlegesíti egymást, a megmaradó határidős láb pedig egy határidős ügylettel egyenértékű.</description>
+    </item>
+    
+  </channel>
+</rss>

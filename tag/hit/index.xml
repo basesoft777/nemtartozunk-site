@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hit on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/hit/</link>
+    <description>Recent content in hit on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Fri, 08 Jan 2016 11:01:00 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/hit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A pénz, mint adósság! - Prof. Franz Hörmann</title>
+      <link>//localhost:1313/penz-mint-adossag/</link>
+      <pubDate>Fri, 08 Jan 2016 11:01:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/penz-mint-adossag/</guid>
+      <description>Ez a pénzrendszer csak úgy működik ha az emberek hisznek benne.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

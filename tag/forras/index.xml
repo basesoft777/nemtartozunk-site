@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>forrás on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/forras/</link>
+    <description>Recent content in forrás on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Wed, 01 Apr 2015 05:04:36 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/forras/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Finanszírozási rés</title>
+      <link>//localhost:1313/finanszirozasi-res/</link>
+      <pubDate>Wed, 01 Apr 2015 05:04:36 +0000</pubDate>
+      
+      <guid>//localhost:1313/finanszirozasi-res/</guid>
+      <description>A hazai bankok forrásoldali likviditási kockázatát elsősorban az határozza meg, milyen mértékben tudják stabil forrásokkal finanszírozni az utóbbi években gyors növekedést mutató, hosszabb lejáratú ügyfélhitelezést. A likviditási kockázat egyik alapvető mérleg alapú indikátora az ügyfelekkel szembeni finanszírozási rés. Az elmúlt évek egyik markáns folyamata a betétek és hitelek közötti finanszírozási rés negatívvá válása és kinyílása, mivel a belföldi ügyfélbetétek egyre kevésbé bizonyultak elégségesnek a gyors hitelexpanzió finanszírozásához (5. ábra). Finanszírozási résen a nem bankoktól származó betétek és a nem bankoknak nyújtott hitelek különbségét értjük, amelyet a hitelállományra vetítünk.</description>
+    </item>
+    
+    <item>
+      <title>FX-swapokkal való fedezés</title>
+      <link>//localhost:1313/swapokkal-valo-fedezes/</link>
+      <pubDate>Sat, 14 Jun 2014 08:06:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/swapokkal-valo-fedezes/</guid>
+      <description> A rövid forintforrásokból hosszabb lejáratú, de változó kamatozású devizaalapú hitelek nyújtásának rövid lejáratú FX-swapokkal való fedezése tehát árfolyamkockázatot és kamatkülönbözet-kockázatot nem, de megújítási kockázatot tartalmaz.
+ Páles Judit −Kuti Zsolt−Csávás Csaba:A devizaswapok szerepe a hazai bankrendszerben és a swappiac válság alatti működésének vizsgálata  </description>
+    </item>
+    
+  </channel>
+</rss>

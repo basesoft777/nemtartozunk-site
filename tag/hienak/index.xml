@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hiénák on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/hienak/</link>
+    <description>Recent content in hiénák on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Sat, 15 Aug 2015 08:08:57 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/hienak/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Válaszok nélkül</title>
+      <link>//localhost:1313/valaszok-nelkul/</link>
+      <pubDate>Sat, 15 Aug 2015 08:08:57 +0000</pubDate>
+      
+      <guid>//localhost:1313/valaszok-nelkul/</guid>
+      <description>Korábban közzétettük a bankoknak feltett kérdéseinket, amelyek többnyire válaszok nélkül maradnak.
+Ha a bank válaszolt, de a 25 kérdésre kitérő választ adott, vagy nem válaszolta meg a 25 pontot, vagy, nem válaszolt. Akkor a banknak küldhető ez a 14. pontos levél, EZ a levél még tartalmazhatja, hogy a törvény szerinti elszámolást, e kérdések megválaszolása nélkül, nem fogadja el az adós.
+Tisztelt Bank!
+Az Önöknél is meglévő „devizaalapú” hitelszerződés alapján kaptam kölcsönt Önöktől.</description>
+    </item>
+    
+    <item>
+      <title>A Devizamellényt újra kell gombolni</title>
+      <link>//localhost:1313/a-devizamellenyt-ujra-kell-gombolni/</link>
+      <pubDate>Thu, 13 Nov 2014 10:11:29 +0000</pubDate>
+      
+      <guid>//localhost:1313/a-devizamellenyt-ujra-kell-gombolni/</guid>
+      <description>Annak ellenére kell újragombolni, hogy nem csak egy lukkal, hanem összevissza van ez a lötyögő mellény gombolva.
+Nyilván volt az Orbán kormánynak egy A) terve. De erről Bajorországban és Ausztriában elmondhatták neki – ott tartózkodásakor – a Globalo &amp;#8211; gazda üzenetét, hogy abba nem csak ő és kormánya, de az ország is belebukik. Pontosabban belebuktatják.
+Ezért a mostani B) terv, a bankmentő csomagok, amelyeket – mint a gyurcsányi IMF-EU hitel felvételekor is &amp;#8211; adósmentőnek „neveztek” el.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>innováció on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/innovacio/</link>
+    <description>Recent content in innováció on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Tue, 01 Jul 2014 01:07:00 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/innovacio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Perverz banki innovációk nyomában ...</title>
+      <link>//localhost:1313/perverz-banki-innovaciok-nyomaban/</link>
+      <pubDate>Tue, 01 Jul 2014 01:07:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/perverz-banki-innovaciok-nyomaban/</guid>
+      <description>A bankok a kommunikációjukban, és a Kúria jogegységi döntései e tárgyban, a devizaalapú hiteleket összemossák a deviza-nyilvántartású hitelekkel, mintha ezek mind deviza forrású hitelek lettek volna. Holott a hitel nyújtásának a feltételei és következményei, a pénztőke e két formája esetén eltérőek, hatásukban ellentétesek.
+Ha a bank (más banktól kapott devizakölcsön, deviza betétjei,) mérlegen belüli deviza forrása terhére nyitja meg az adós pozícióját Ft-hitel formájában (egy számlán), akkor a hitel forrása egyszeri devizaügyletből, deviza átváltásból származó Ft-hitel.</description>
+    </item>
+    
+  </channel>
+</rss>

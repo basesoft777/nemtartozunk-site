@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>forward on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/forward/</link>
+    <description>Recent content in forward on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Mon, 20 Jul 2015 08:07:17 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/forward/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Névérték cseréje</title>
+      <link>//localhost:1313/nevertek-csereje/</link>
+      <pubDate>Mon, 20 Jul 2015 08:07:17 +0000</pubDate>
+      
+      <guid>//localhost:1313/nevertek-csereje/</guid>
+      <description>Az FX-swap egy származtatott pénzügyi piaci ügylet, mely két lábból áll. Az ügylet induló (vagy azonnali, spot) lábán a partnerek két különböző devizát cserélnek el egymással, amelyet a lejáró (vagy határidős, termin) lábon visszacserélnek. Az induló és határidős árfolyamokról egyaránt megállapodnak már az ügylet megkötésekor. Az FX-swapot szokás egyszerű devizaswapnak is hívni, hiszen a névértékek cseréjén túl nem történik több tranzakció a partnerek között, szemben a kamatozó devizacsere- ügylettel (currency interest rate swap, CIRS), ahol kamatokat (is) fizetnek egymásnak a felek a futamidő során.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>finanszírozás on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/finanszirozas/</link>
+    <description>Recent content in finanszírozás on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Sat, 18 Jul 2015 09:07:28 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/finanszirozas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Devizapozíciókat nem nyitnak</title>
+      <link>//localhost:1313/devizapoziciokat-nem-nyitnak/</link>
+      <pubDate>Sat, 18 Jul 2015 09:07:28 +0000</pubDate>
+      
+      <guid>//localhost:1313/devizapoziciokat-nem-nyitnak/</guid>
+      <description>A swap tehát lényegét tekintve nem más, mint egy azonnali konverzió és egy azzal egy időpontban megkötött ellentétes irányú határidős ügylet. Ez azt jelenti, hogy a swap két oldalán álló felek egy adott pillanatban megveszik és el is adják a szóban forgó devizákat, így devizapozíciókat nem nyitnak , nem hozzák magukat olyan helyzetbe, hogy a két deviza (kereszt-) árfolyamának elmozdulása nyereséget vagy veszteséget okozhasson nekik.
+ Jelentés a pénzügyi stabilitásról – 2003.</description>
+    </item>
+    
+    <item>
+      <title>Negatív deviza finanszírozási rés</title>
+      <link>//localhost:1313/negativ-deviza-finanszirozasi-res/</link>
+      <pubDate>Wed, 15 Jul 2015 01:07:10 +0000</pubDate>
+      
+      <guid>//localhost:1313/negativ-deviza-finanszirozasi-res/</guid>
+      <description>A bankrendszer forrásoldali likviditását vizsgálva, a 2003 során negatívvá váló – az ügyfélhitelek és ügyfélbetétek közötti – finanszírozási rés nyílása 2005 második felében is folytatódott. A finanszírozási rés forintra és devizára bontása alapján kitűnik, hogy a forint betéti többlet (pozitív rés) növekedése nem tudta ellensúlyozni a negatív deviza finanszírozási rés erőteljes nyílását (2-23. ábra).
+A finanszírozási rés a jelentésben korábban használt hitel/betét mutatóhoz hasonló tartalmú, bár kissé eltérő értelmezésű. Finanszírozási résként a nem monetáris pénzügyi intézményektől származó betétek és nem monetáris pénzügyi intézményeknek nyújtott hitelek közötti különbség hitelekre vetített arányát értjük.</description>
+    </item>
+    
+    <item>
+      <title>Finanszírozási rés</title>
+      <link>//localhost:1313/finanszirozasi-res/</link>
+      <pubDate>Wed, 01 Apr 2015 05:04:36 +0000</pubDate>
+      
+      <guid>//localhost:1313/finanszirozasi-res/</guid>
+      <description>A hazai bankok forrásoldali likviditási kockázatát elsősorban az határozza meg, milyen mértékben tudják stabil forrásokkal finanszírozni az utóbbi években gyors növekedést mutató, hosszabb lejáratú ügyfélhitelezést. A likviditási kockázat egyik alapvető mérleg alapú indikátora az ügyfelekkel szembeni finanszírozási rés. Az elmúlt évek egyik markáns folyamata a betétek és hitelek közötti finanszírozási rés negatívvá válása és kinyílása, mivel a belföldi ügyfélbetétek egyre kevésbé bizonyultak elégségesnek a gyors hitelexpanzió finanszírozásához (5. ábra). Finanszírozási résen a nem bankoktól származó betétek és a nem bankoknak nyújtott hitelek különbségét értjük, amelyet a hitelállományra vetítünk.</description>
+    </item>
+    
+    <item>
+      <title>A törlesztések a forint gyengüléséhez vezetnek</title>
+      <link>//localhost:1313/a-forint-gyengulese/</link>
+      <pubDate>Wed, 11 Jun 2014 06:06:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/a-forint-gyengulese/</guid>
+      <description> A hazai devizahitelek banki finanszírozásának következtetései: a hitelezés felfutása a forint erősödéséhez, a törlesztések a forint gyengüléséhez vezetnek.
+ BME Üzleti Tudományok Intézete – Makrogazdasági pénzügyek (BMEGT35MN02) – Képzés: Műszaki menedzser mesterszak MSc, Műszaki menedzser mesterszak – Pénzügyi specializáció, Pénzügy MA, Vezetés és szervezés MA – Előadás: Makropénzügyek – 5. Piacok és az instabilitás – A hazai devizahitelek banki finanszírozásának következtetései  </description>
+    </item>
+    
+  </channel>
+</rss>
