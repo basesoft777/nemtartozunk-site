@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fiktív on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/fiktiv/</link>
+    <description>Recent content in fiktív on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Wed, 22 Jul 2015 09:07:06 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/fiktiv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Látszólagos devizaforrás</title>
+      <link>//localhost:1313/latszolagos-devizaforras/</link>
+      <pubDate>Wed, 22 Jul 2015 09:07:06 +0000</pubDate>
+      
+      <guid>//localhost:1313/latszolagos-devizaforras/</guid>
+      <description> A többlet devizaeszköz lefedezésének nettó hatásaként tehát a bankok valójában látszólagos devizaforrást állítanak elő. Mivel azonban a bankoknak alapvetően a devizahitelezésből eredően egyre inkább svájci frankban denominált ügyleteket kell fedezni, ehhez egy eurósvájci frank ügyletet is beiktatnak, a svájci frankforint piac alacsony likviditása miatt.
+ Jelentés a pénzügyi stabilitásról−2005. április MNB  </description>
+    </item>
+    
+  </channel>
+</rss>

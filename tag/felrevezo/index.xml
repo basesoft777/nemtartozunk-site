@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>félrevező on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/felrevezo/</link>
+    <description>Recent content in félrevező on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Fri, 12 Dec 2014 05:12:06 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/felrevezo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Az MNB &#34;szakvéleménye&#34; a devizahitelről félrevezető és hamis
+</title>
+      <link>//localhost:1313/az-mnb-szakvelemenye-a-devizahitelrol-felrevezeto-es-hamis/</link>
+      <pubDate>Fri, 12 Dec 2014 05:12:06 +0000</pubDate>
+      
+      <guid>//localhost:1313/az-mnb-szakvelemenye-a-devizahitelrol-felrevezeto-es-hamis/</guid>
+      <description>Az egyszeri devizadós levele a Kúriához:
+Tisztelt Kúria!
+ A Kúriának a 6/2013 PJE határozata kapcsán több sajtóinformáció köztük a Kúriának a megnyilvánulásai is utaltak arra, hogy az MNB szakértői véleményt nyújtott be a Kúriának, abban a kérdéskörben, hogy a deviza alapú hitelek rendelkeztek-e deviza forrásokkal.
+Kérésem indokoltsága abban áll, mivel a Kúria a PJE határozatában megtiltotta a bíróságnak ezen kérdéskör vizsgálatát és erre vonatkozó bizonyítást, ezért a fegyverek egyenlősége szellemében indokolt lenne , hogy a jogkövető közönség ezen szakértői vélemény teljes tartalmát megismerhesse.</description>
+    </item>
+    
+  </channel>
+</rss>

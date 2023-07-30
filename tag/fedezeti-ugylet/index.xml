@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fedezeti ügylet on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/fedezeti-ugylet/</link>
+    <description>Recent content in fedezeti ügylet on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Sat, 16 Aug 2014 03:08:00 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/fedezeti-ugylet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A folyósító bank fedezeti ügyletének lezárása</title>
+      <link>//localhost:1313/egy-devizahitel-visszafizetesehez-devizara-van/</link>
+      <pubDate>Sat, 16 Aug 2014 03:08:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/egy-devizahitel-visszafizetesehez-devizara-van/</guid>
+      <description> Egy devizahitel visszafizetéséhez devizára van szükség. Ez igaz a devizaalapú hitelek esetében is, jóllehet ott a deviza nem közvetlenül a hitel visszafizetéséhez, hanem az azt folyósító bank fedezeti ügyletének lezárásához kell.
+ Pulai György−Reppa Zoltán:A végtörlesztésekhez kapcsolódóan bevezetett jegybanki euroeladási program kialakítása és megvalósítása  </description>
+    </item>
+    
+  </channel>
+</rss>

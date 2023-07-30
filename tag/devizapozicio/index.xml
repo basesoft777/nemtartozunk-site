@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>devizapozíció on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/devizapozicio/</link>
+    <description>Recent content in devizapozíció on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Thu, 23 Jul 2015 08:07:15 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/devizapozicio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Költségként realizálódott az ügyfelek számára</title>
+      <link>//localhost:1313/koltsegkent-realizalodott-az-ugyfelek-szamara/</link>
+      <pubDate>Thu, 23 Jul 2015 08:07:15 +0000</pubDate>
+      
+      <guid>//localhost:1313/koltsegkent-realizalodott-az-ugyfelek-szamara/</guid>
+      <description>A bankok alapvetően rövid és szintetikus forrásból refinanszírozták hosszú lejáratú deviza-jelzáloghitelezésüket. Ez a technika nem elhanyagolható megújítási kockázattal járt, amely elsősorban költségként realizálódott az ügyfelek számára (7. ismérv). A magyar bankrendszer a svájcifrank-hitelezéshez szükséges svájcifrank-forrást nem tradicionális módon – svájcifrank-devizabetét gyűjtéséből, illetve hosszú lejáratú devizakötvény-kibocsátásból vonta be, hanem a mérlegén belül forint- vagy euróbetétből finanszírozta meg. Az ebből adódó, mérlegen belüli nyitott devizapozíciót a bankok jellemzően külföldiekkel kötött, mérlegen kívüli (származtatott) ügyletekkel fedezik.</description>
+    </item>
+    
+    <item>
+      <title>Devizapozíciókat nem nyitnak</title>
+      <link>//localhost:1313/devizapoziciokat-nem-nyitnak/</link>
+      <pubDate>Sat, 18 Jul 2015 09:07:28 +0000</pubDate>
+      
+      <guid>//localhost:1313/devizapoziciokat-nem-nyitnak/</guid>
+      <description>A swap tehát lényegét tekintve nem más, mint egy azonnali konverzió és egy azzal egy időpontban megkötött ellentétes irányú határidős ügylet. Ez azt jelenti, hogy a swap két oldalán álló felek egy adott pillanatban megveszik és el is adják a szóban forgó devizákat, így devizapozíciókat nem nyitnak , nem hozzák magukat olyan helyzetbe, hogy a két deviza (kereszt-) árfolyamának elmozdulása nyereséget vagy veszteséget okozhasson nekik.
+ Jelentés a pénzügyi stabilitásról – 2003.</description>
+    </item>
+    
+    <item>
+      <title>FX-swappal finanszírozott spot devizapozíció felvétele</title>
+      <link>//localhost:1313/fx-swappal-finanszirozott-spot-devizapozicio-felvetele/</link>
+      <pubDate>Thu, 16 Jul 2015 07:07:28 +0000</pubDate>
+      
+      <guid>//localhost:1313/fx-swappal-finanszirozott-spot-devizapozicio-felvetele/</guid>
+      <description>FX-swappal finanszírozott spot devizapozíció felvétele (szintetikus határidős pozíció)
+Ennek keretében az elsősorban devizapozíciót felvenni kívánó szereplő (jellemzően egy spekuláns) pozíció nyitására a sima határidősnél (outright forward) likvidebb spotpiacot használja, azonban, mivel a kérdéses devizában eszközt nem kíván szerezni (nem akar mérlegében változást látni), köt egy ezt finanszírozó swapügyletet is, melynek spotlába ellentétes irányú az eredeti spotügylettel. Így nettó pozíciója a swap forward-lábára korlátozódik, mely tehát az eredeti spotügylettel (a kívánt pozíciónyitási iránnyal) megegyező irányú, míg a spotlábon nincs pénzmozgás, mérlege változatlan.</description>
+    </item>
+    
+    <item>
+      <title>Árfolyam-kockázati kitettség</title>
+      <link>//localhost:1313/arfolyam-kockazati-kitettseg/</link>
+      <pubDate>Mon, 18 Aug 2014 08:08:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/arfolyam-kockazati-kitettseg/</guid>
+      <description> Ha a bank a devizalikviditást egy egyszerű azonnali devizaügylet (konverzió) segítségével biztosítja, akkor az árfolyamkockázati kitettsége fennmarad, s ez pótlólagos tőkekövetelményt vonhat maga után.
+Ha a teljes nyitott devizapozíció meghaladja a túllépések levonása előtti szavatoló tőke két százalékát, akkor az összesített nyitott pozíció nyolc százaléka után kell tőkét képezni.
+ Mák István−Páles Judit:Az FX-swap piac szerepe a hazai pénzügyi rendszerben  </description>
+    </item>
+    
+  </channel>
+</rss>

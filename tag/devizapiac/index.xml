@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>devizapiac on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/devizapiac/</link>
+    <description>Recent content in devizapiac on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Mon, 20 Jul 2015 08:07:17 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/devizapiac/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Névérték cseréje</title>
+      <link>//localhost:1313/nevertek-csereje/</link>
+      <pubDate>Mon, 20 Jul 2015 08:07:17 +0000</pubDate>
+      
+      <guid>//localhost:1313/nevertek-csereje/</guid>
+      <description>Az FX-swap egy származtatott pénzügyi piaci ügylet, mely két lábból áll. Az ügylet induló (vagy azonnali, spot) lábán a partnerek két különböző devizát cserélnek el egymással, amelyet a lejáró (vagy határidős, termin) lábon visszacserélnek. Az induló és határidős árfolyamokról egyaránt megállapodnak már az ügylet megkötésekor. Az FX-swapot szokás egyszerű devizaswapnak is hívni, hiszen a névértékek cseréjén túl nem történik több tranzakció a partnerek között, szemben a kamatozó devizacsere- ügylettel (currency interest rate swap, CIRS), ahol kamatokat (is) fizetnek egymásnak a felek a futamidő során.</description>
+    </item>
+    
+    <item>
+      <title>A devizaalapú hitelezésből eredő forintkereslet</title>
+      <link>//localhost:1313/devizaalapu-hitelezesbol-eredo-forintkereslet/</link>
+      <pubDate>Sat, 04 Oct 2014 09:10:04 +0000</pubDate>
+      
+      <guid>//localhost:1313/devizaalapu-hitelezesbol-eredo-forintkereslet/</guid>
+      <description> A devizaalapú hitelezésből eredő forintkereslet tehát a bankok közvetítésével jelenik meg a devizapiacon.
+ Csávás Csaba−Kóczán Gergely−Varga Lóránt:A főbb hazai pénzügyi piacok meghatározó szereplői és jellemző kereskedési stratégiái  </description>
+    </item>
+    
+    <item>
+      <title>A hitelt felvevő ügyfelek forintkereslete</title>
+      <link>//localhost:1313/a-hitelt-felvevo-ugyfelek/</link>
+      <pubDate>Mon, 23 Jun 2014 06:06:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/a-hitelt-felvevo-ugyfelek/</guid>
+      <description> A hitelt felvevő ügyfelek a hitel folyósítása során forintkereslettel, a hitel törlesztése során forintkínálattal rendelkeznek, illetve jelennek meg a bank közvetítésével az azonnali devizapiacon.
+ Balás Tamás−Nagy Márton:A devizahitelek forinthitelekre történő átváltása  </description>
+    </item>
+    
+  </channel>
+</rss>

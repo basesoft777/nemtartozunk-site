@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>devizaforrás on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/devizaforras/</link>
+    <description>Recent content in devizaforrás on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Wed, 22 Jul 2015 09:07:06 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/devizaforras/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Látszólagos devizaforrás</title>
+      <link>//localhost:1313/latszolagos-devizaforras/</link>
+      <pubDate>Wed, 22 Jul 2015 09:07:06 +0000</pubDate>
+      
+      <guid>//localhost:1313/latszolagos-devizaforras/</guid>
+      <description> A többlet devizaeszköz lefedezésének nettó hatásaként tehát a bankok valójában látszólagos devizaforrást állítanak elő. Mivel azonban a bankoknak alapvetően a devizahitelezésből eredően egyre inkább svájci frankban denominált ügyleteket kell fedezni, ehhez egy eurósvájci frank ügyletet is beiktatnak, a svájci frankforint piac alacsony likviditása miatt.
+ Jelentés a pénzügyi stabilitásról−2005. április MNB  </description>
+    </item>
+    
+    <item>
+      <title>A devizaforrás nélküli devizahitelezés</title>
+      <link>//localhost:1313/devizaforras-nelkuli-devizahitelezes/</link>
+      <pubDate>Fri, 06 Jun 2014 03:06:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/devizaforras-nelkuli-devizahitelezes/</guid>
+      <description> A mérlegen belüli devizapozíció felépülését az utóbbi időszakban fokozatosan a devizaforrás nélküli devizahitezés magyarázza.
+ Bethlendi András-Czeti Tamás-Krekó Judit-Nagy Márton-Palotai Dániel-MNB háttértanulmányok 2005/2-A MAGÁNSZEKTOR DEVIZAHITELEZÉSÉNEK MOZGATÓRUGÓI  </description>
+    </item>
+    
+    <item>
+      <title>A hazai bankszektor így jelentős FX-swap pozíciót görget
+</title>
+      <link>//localhost:1313/a-hazai-bankszektor-igy-jelentos-fx-swap-poziciot/</link>
+      <pubDate>Thu, 05 Jun 2014 09:06:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/a-hazai-bankszektor-igy-jelentos-fx-swap-poziciot/</guid>
+      <description> A hazai bankszektor így jelentős FX-swap pozíciót görget, ahol az azonnali lábon devizához jut. Ez a swapállomány meglehetősen magas, a Lehman-csődöt megelőző egy évben 7 és 13 milliárd euró között ingadozott (névértéken kifejezve).
+ Csávás Csaba−Szabó Rezső:A forint/deviza FX-swap szpredek mozgatórugói a Lehman-csőd utáni időszakban  </description>
+    </item>
+    
+  </channel>
+</rss>

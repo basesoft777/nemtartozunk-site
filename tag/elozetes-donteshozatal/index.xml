@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>előzetes döntéshozatal on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/elozetes-donteshozatal/</link>
+    <description>Recent content in előzetes döntéshozatal on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Mon, 24 Apr 2017 03:04:43 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/elozetes-donteshozatal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Előzetes döntéshozatali inditvány</title>
+      <link>//localhost:1313/elozetes-donteshozatali-inditvany/</link>
+      <pubDate>Mon, 24 Apr 2017 03:04:43 +0000</pubDate>
+      
+      <guid>//localhost:1313/elozetes-donteshozatali-inditvany/</guid>
+      <description>Kérjük a Tisztelt Kúriát, mivel a folyamatban lévő ügyben a közösségi jog rendelkezéseinek értelmezése relevánsak, az EUMSZ 267. cikke alapján kezdeményezzen előzetes döntéshozatali eljárást. Az alperes a felperes keresetével szemben a pénztermékre és a pénzszolgáltatási szerződésre alternatív tényállást és bizonyítást nem terjesztett elő. Ezért a fogyasztóvédelem szabályai szerint a bíróságnak a pénzszolgáltató kötelező tényállítási terhét, bizonyítási kötelezettségét akként kell számon kérnie, hogy a szolgáltató nem vitatta a felperes tényállításait a felek jogviszonyára vonatkozóan.</description>
+    </item>
+    
+    <item>
+      <title>Kriston-ügy</title>
+      <link>//localhost:1313/kriston-ugy/</link>
+      <pubDate>Thu, 17 Sep 2015 05:09:10 +0000</pubDate>
+      
+      <guid>//localhost:1313/kriston-ugy/</guid>
+      <description>A Luxemburgi Bíróság tárgyalni fogja előzetes döntéshozó eljárás keretében, egy konkrét ügyben azt, hogy a magyar deviza-nyilvántartású Ft- hitel befektetés-e?
+Véleményünk erről&amp;#8230;
+ A &amp;#8220;devizaalapú&amp;#8221; Ft-hitel is hatféle. A deviza-nyilvántartású Ft-hitel is alapvetően kétféle, jelzálogalapú-e vagy sem? Utóbbi is alapvetően kétféle, pénzügyi vállalkozás által nyújtott Ft-kölcsön, és annak likviditását refinanszírozó deviza-nyilvántartású hitel van-e a vállalkozás és a refinanszírozó bankja között; vagy bank által nyújtott devizanyilvántartású hitelről van-e szó?   ad 1.</description>
+    </item>
+    
+  </channel>
+</rss>
