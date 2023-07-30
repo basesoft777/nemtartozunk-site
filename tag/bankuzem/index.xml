@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>banküzem on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/bankuzem/</link>
+    <description>Recent content in banküzem on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Thu, 28 Apr 2016 08:04:58 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/bankuzem/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Szélmalmok 1.0 - A makacs jog, és a banküzem flörtje</title>
+      <link>//localhost:1313/szelmalmok-1-0-makacs-jog-bankuzem-flortje/</link>
+      <pubDate>Thu, 28 Apr 2016 08:04:58 +0000</pubDate>
+      
+      <guid>//localhost:1313/szelmalmok-1-0-makacs-jog-bankuzem-flortje/</guid>
+      <description>Az előző részben leírtuk, hogy a pénzintézetek és adósok között létrejövő pénzszolgáltatási szerződések, nem csupán pénzeszköz juttatását teszik lehetővé az adós számára, hanem hitelpénz-tőke, közpénz létrehozásának a magánjogi szerződés keretében történő létrehozásához is elengedhetetlen, a hitelintézet számára. Vagyis az a fogyasztói igény, hogy az adós pénzeszközt kér egy pénzintézettől, az ad lehetőséget arra, hogy egy hitelintézet a semmiből hitel-számlapénz formájában közpénzt hozzon létre. Olyan tőkeként funkcionáló számlapénzt, amely az adóssal szembeni követelésjog nyilvántartásával, a számvitel szabályai szerint, mint követeléspénz jelenik meg a banküzem könyvelésében.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bankszövetség on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/bankszovetseg/</link>
+    <description>Recent content in bankszövetség on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Fri, 09 Jan 2015 04:01:38 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/bankszovetseg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A forintosítás a lepel alatt…</title>
+      <link>//localhost:1313/a-forintositas-a-lepel-alatt/</link>
+      <pubDate>Fri, 09 Jan 2015 04:01:38 +0000</pubDate>
+      
+      <guid>//localhost:1313/a-forintositas-a-lepel-alatt/</guid>
+      <description>Ez az írás a devizaforrású Ft-hitelviszonytól a szintetikus devizahitel-viszony megkülönböztetéséhez szeretne információt adni az érdekelteknek.
+A devizaforrású Ft-hitel jogviszony (szerződési kötelem) ismerete ma azért fontos, mert ezzé alakítják át a forintosítási törvények (a három devizamentő (bankmentő tv.) a deviza-nyilvántartású (befektetéssel vegyes, jelzáloggal biztosított Ft-hiteleket).
+A mostani forintosítás nem más, mint deviza-nyilvántartású forinthitel (szintetikus devizával, vagyis szüntelen megújításra szoruló pénzpiaci befektetéssel, ellentételezett forint-hitel) törvényi átalakítása, egyszeri devizaforrású forinthitellé. Azzá, aminek az ilyen szerződések megkötésekor, a bank a pénzügyi termékét láttatni akarta.</description>
+    </item>
+    
+    <item>
+      <title>Egy forinthitel és egy kockázatos befektetés kombinációja
+</title>
+      <link>//localhost:1313/egy-kockazatos-befektetes/</link>
+      <pubDate>Fri, 13 Jun 2014 07:06:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/egy-kockazatos-befektetes/</guid>
+      <description> Az általam ajánlott felfogás voltaképp egyfajta dekompozícióra épül. A devizaalapú, változó kamatozású adóspozíciót egy forinthitel és egy kockázatos befektetés kombinációjaként állítja elő.
+ Schepp Zoltán:Néhány gondolat a változó kamatozású devizafinanszírozás kockázatairól  </description>
+    </item>
+    
+    <item>
+      <title>Nehogy egy másik bank szövege sokkal jobban feltárja a kockázatot
+</title>
+      <link>//localhost:1313/a-ket-kockazatfeltaro-nyilatkozattal-kapcsolatosan/</link>
+      <pubDate>Thu, 05 Jun 2014 08:06:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/a-ket-kockazatfeltaro-nyilatkozattal-kapcsolatosan/</guid>
+      <description>A két kockázatfeltáró nyilatkozattal kapcsolatosan az merült fel, hogy a hitelezés kapcsán – a vételi jogon és az árfolyamkockázaton kívül – még sok hasonlóan nagy kockázat (kamat-, törlesztési-, kezesi-, óvadéki kockázat) éri az ügyfelet, mégsem lehet az összesről külön nyilatkozatot készíteni. A bankok mindenesetre fontosnak tartották, hogy e nyilatkozatok minden banknál egységesek legyenek, nehogy az ügyfél utólag – bukás esetén – azt mondhassa, hogy egy másik bank szövege sokkal jobban feltárta a kockázatot, s annak alapján nem vette volna fel a hitelt.</description>
+    </item>
+    
+    <item>
+      <title>Egy árfolyam növekedés bekövetkeztével kell számolni</title>
+      <link>//localhost:1313/normal-esetben-egy-arfolyam-novekedes/</link>
+      <pubDate>Thu, 05 Jun 2014 07:06:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/normal-esetben-egy-arfolyam-novekedes/</guid>
+      <description> NORMÁL ESETBEN egy árfolyam növekedés bekövetkeztével kell számolni.
+ Kovács Levente a Bankszövetség főtitkárának az Országgyűlés Fogyasztóvédelmi bizottságának 2013. február 25-én, hétfőn 10 óra 3 perckor a Képviselői Irodaház 562. számú tanácstermében megtartott üléséről  </description>
+    </item>
+    
+  </channel>
+</rss>

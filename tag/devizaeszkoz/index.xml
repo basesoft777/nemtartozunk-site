@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>devizaeszköz on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/devizaeszkoz/</link>
+    <description>Recent content in devizaeszköz on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Fri, 26 Sep 2014 08:09:52 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/devizaeszkoz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A bankoknak nincs szükségük devizaeszközre</title>
+      <link>//localhost:1313/a-bankoknak-nincs-szukseguk-devizaeszkozre/</link>
+      <pubDate>Fri, 26 Sep 2014 08:09:52 +0000</pubDate>
+      
+      <guid>//localhost:1313/a-bankoknak-nincs-szukseguk-devizaeszkozre/</guid>
+      <description> E hitelek nyújtásához a bankoknak nincs szükségük devizaeszközre, egy ún. belső konverzióval érik el azt, hogy a mérlegükben megjelenő forintban denominált hitel devizaeszközként viselkedjen.
+ Csávás Csaba−Kóczán Gergely−Varga Lóránt:A főbb hazai pénzügyi piacok meghatározó szereplői és jellemző kereskedési stratégiá  </description>
+    </item>
+    
+    <item>
+      <title>A devizaforrás nélküli devizahitezés</title>
+      <link>//localhost:1313/devizaforras-nelkuli-devizahitezes/</link>
+      <pubDate>Thu, 14 Aug 2014 06:08:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/devizaforras-nelkuli-devizahitezes/</guid>
+      <description> A devizahitelezés elmúlt évben tapasztalt gyors felfutása nem hagyta érintetlenül a bankrendszer mérlegstruktúráját: a devizaeszközök devizaforrásokhoz mért többlete 2004. végére korábban soha nem látott szintre, a mérlegfőösszeg 6,3%-ra (kb. 1000 Mrd forintra) emelkedett. A mérlegen belüli devizapozíció felépülését az utóbbi időszakban fokozatosan a devizaforrás nélküli devizahitezés magyarázza.
+ Bethlendi András−Czeti Tamás−Krekó Judit−Nagy Márton−Palotai Dániel:MNB háttértanulmányok 2005/2 – A magánszektor devizahitelezésének mozgatórugó  </description>
+    </item>
+    
+  </channel>
+</rss>

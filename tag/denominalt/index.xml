@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>denominált on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/denominalt/</link>
+    <description>Recent content in denominált on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Fri, 26 Sep 2014 08:09:52 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/denominalt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A bankoknak nincs szükségük devizaeszközre</title>
+      <link>//localhost:1313/a-bankoknak-nincs-szukseguk-devizaeszkozre/</link>
+      <pubDate>Fri, 26 Sep 2014 08:09:52 +0000</pubDate>
+      
+      <guid>//localhost:1313/a-bankoknak-nincs-szukseguk-devizaeszkozre/</guid>
+      <description> E hitelek nyújtásához a bankoknak nincs szükségük devizaeszközre, egy ún. belső konverzióval érik el azt, hogy a mérlegükben megjelenő forintban denominált hitel devizaeszközként viselkedjen.
+ Csávás Csaba−Kóczán Gergely−Varga Lóránt:A főbb hazai pénzügyi piacok meghatározó szereplői és jellemző kereskedési stratégiá  </description>
+    </item>
+    
+    <item>
+      <title>Egy adott devizanemű finanszírozási eszköz szintetikusan előállítható
+</title>
+      <link>//localhost:1313/finanszirozasi-eszkoz-szintetikusan-eloallithato/</link>
+      <pubDate>Fri, 22 Aug 2014 07:08:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/finanszirozasi-eszkoz-szintetikusan-eloallithato/</guid>
+      <description>Az FX-swap ügylet felépítéséből adódóan lehetővé teszi egyrészt a különböző devizanemben fennálló likvid eszközök (készpénz,számlapénz) cseréjét a spot lábon keresztül, ezzel egyidejűleg az emiatt változó devizapozíció fedezését a termin lábon keresztül. Ennek köszönhetően az ügylettel a szükséges denominációjú likviditás biztosítható az eredeti devizapozíció változtatása nélkül. Vagy másképpen: a devizaswapügylet felhasználásával egy finanszírozási eszköz devizaneme megváltoztatható, illetve egy adott devizanemű finanszírozási eszköz szintetikusan előállítható (hitel/betét + devizaswap). ugyanakkor az FX-swap és spotügyletek együttes alkalmazásával a piaci szereplők szintetikus határidős devizapozíciót tudnak felvállalni, illetve ennek révén a meglévő árfolyamkitettségüket zárni tudják: ekkor az FX-swap ügylet spot lába és az azzal ellentétes irányú spotügylet semlegesíti egymást, a megmaradó határidős láb pedig egy határidős ügylettel egyenértékű.</description>
+    </item>
+    
+  </channel>
+</rss>

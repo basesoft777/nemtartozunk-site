@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>csalás on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/csalas/</link>
+    <description>Recent content in csalás on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Fri, 09 Jan 2015 04:01:38 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/csalas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A forintosítás a lepel alatt…</title>
+      <link>//localhost:1313/a-forintositas-a-lepel-alatt/</link>
+      <pubDate>Fri, 09 Jan 2015 04:01:38 +0000</pubDate>
+      
+      <guid>//localhost:1313/a-forintositas-a-lepel-alatt/</guid>
+      <description>Ez az írás a devizaforrású Ft-hitelviszonytól a szintetikus devizahitel-viszony megkülönböztetéséhez szeretne információt adni az érdekelteknek.
+A devizaforrású Ft-hitel jogviszony (szerződési kötelem) ismerete ma azért fontos, mert ezzé alakítják át a forintosítási törvények (a három devizamentő (bankmentő tv.) a deviza-nyilvántartású (befektetéssel vegyes, jelzáloggal biztosított Ft-hiteleket).
+A mostani forintosítás nem más, mint deviza-nyilvántartású forinthitel (szintetikus devizával, vagyis szüntelen megújításra szoruló pénzpiaci befektetéssel, ellentételezett forint-hitel) törvényi átalakítása, egyszeri devizaforrású forinthitellé. Azzá, aminek az ilyen szerződések megkötésekor, a bank a pénzügyi termékét láttatni akarta.</description>
+    </item>
+    
+    <item>
+      <title>AZ ADÓSOKAT megdöbbentette a MAGYAR BANKRENDSZER SZERVEZETT CSALÁSA (pamflet)
+</title>
+      <link>//localhost:1313/az-adosokat-megdobbentette-a-magyar-bankrendszer/</link>
+      <pubDate>Thu, 05 Jun 2014 09:06:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/az-adosokat-megdobbentette-a-magyar-bankrendszer/</guid>
+      <description>Ha a magyar ADÓSOK azt gondolták is, hogy a dolgok már nem lehetnek rosszabbak, bizony rosszabbak lettek &amp;#8211; írja a Financial Times szerzője a MAGYAR BANKRENDSZER 1.200.000 CSALÁDI, VÁLLALKOZÁSI ÉS ÖNKORMÁNYZATI DEVIZAHITELESRE kivetett 34 EZER milliárd forintos ÁRFOLYAMNYERESÉG. KERESKEDELMI ÁRRÉS ÉS KAMATEMELÉS kapcsán. A lap által megszólaltatott ADÓSI bennfentesek megdöbbenésüknek adtak hangot, illetve szörnyűségesnek, rémálomnak, hülyeségnek titulálták a MAGYAR BANKOK TEVÉKENYSÉGÉT.Csak néhány nappal azután, hogy HÉTKÖZNAPI ISTVÁN, KÉNYSZERVÁLLALKOZÓ MÁRIA, POLGÁRMESTER ALAJOS a célzásnál is erőteljesebb utalást tett arra, hogy más régiós országokhoz hasonlóan Magyarországról is kivonulhat a NÉP a kedvezőtlen BANKI CSALÁSOK miatt, a</description>
+    </item>
+    
+  </channel>
+</rss>

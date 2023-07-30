@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bme on Nem tartozunk!</title>
+    <link>//localhost:1313/tags/bme/</link>
+    <description>Recent content in bme on Nem tartozunk!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Wed, 11 Jun 2014 06:06:00 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/bme/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A törlesztések a forint gyengüléséhez vezetnek</title>
+      <link>//localhost:1313/a-forint-gyengulese/</link>
+      <pubDate>Wed, 11 Jun 2014 06:06:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/a-forint-gyengulese/</guid>
+      <description> A hazai devizahitelek banki finanszírozásának következtetései: a hitelezés felfutása a forint erősödéséhez, a törlesztések a forint gyengüléséhez vezetnek.
+ BME Üzleti Tudományok Intézete – Makrogazdasági pénzügyek (BMEGT35MN02) – Képzés: Műszaki menedzser mesterszak MSc, Műszaki menedzser mesterszak – Pénzügyi specializáció, Pénzügy MA, Vezetés és szervezés MA – Előadás: Makropénzügyek – 5. Piacok és az instabilitás – A hazai devizahitelek banki finanszírozásának következtetései  </description>
+    </item>
+    
+  </channel>
+</rss>
